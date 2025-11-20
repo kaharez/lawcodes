@@ -17,12 +17,12 @@ status: active
 1. No person is compelled to accept a succession. Every heir and legatee has the right to accept or renounce.
 
 2. Acceptance may be:
-    a. express, by declaration in writing;
-    b. tacit, by conduct manifesting the intention to accept, such as taking possession of estate property or performing acts that only an heir would have the right to do.
+    (a) express, by declaration in writing;
+    (b) tacit, by conduct manifesting the intention to accept, such as taking possession of estate property or performing acts that only an heir would have the right to do.
 
 3. Acceptance may be:
-    a. pure and simple, making the heir liable for all debts and obligations of the deceased without limit;
-    b. under benefit of inventory, limiting the heir's liability to the value of the assets inherited.
+    (a) pure and simple, making the heir liable for all debts and obligations of the deceased without limit;
+    (b) under benefit of inventory, limiting the heir's liability to the value of the assets inherited.
 
 4. An heir who accepts under benefit of inventory is not personally liable for debts of the estate exceeding the value of the assets. The heir must prepare an inventory of the estate and administer it separately from their own property.
 

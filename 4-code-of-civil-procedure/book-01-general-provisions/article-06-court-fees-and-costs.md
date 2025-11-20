@@ -21,8 +21,8 @@ status: active
 3. Costs shall generally follow the event: the unsuccessful party shall bear the costs of the successful party.
 
 4. The court may order otherwise where justice requires, having regard to:
-   a. the conduct of parties;
-   b. the reasonableness of claims and defenses;
-   c. offers of settlement.
+   (a) the conduct of parties;
+   (b) the reasonableness of claims and defenses;
+   (c) offers of settlement.
 
 5. Costs include reasonable attorney fees, expert fees, and other necessary expenses.

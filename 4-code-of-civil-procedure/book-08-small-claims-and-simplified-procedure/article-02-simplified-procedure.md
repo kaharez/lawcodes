@@ -17,9 +17,9 @@ status: active
 1. In small claims and matters of limited complexity, the court may order simplified procedure.
 
 2. Simplified procedure may include:
-   a. abbreviated pleadings;
-   b. limited discovery;
-   c. shorter time limits;
-   d. determination on written submissions.
+   (a) abbreviated pleadings;
+   (b) limited discovery;
+   (c) shorter time limits;
+   (d) determination on written submissions.
 
 3. Costs in simplified proceedings are generally fixed or limited.

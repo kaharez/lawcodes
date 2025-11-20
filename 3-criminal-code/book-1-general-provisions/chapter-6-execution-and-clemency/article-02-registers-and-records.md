@@ -17,11 +17,11 @@ status: active
 1. The Registrar of the High Court shall maintain a Register of Criminal Judgments containing all final decisions issued under this Code.
 
 2. Entries in the Register shall include:
-    a. identity of the convicted person;
-    b. offence of conviction;
-    c. penalty imposed;
-    d. date of judgment;
-    e. any subsequent modification, suspension, or extinction of penalties.
+    (a) identity of the convicted person;
+    (b) offence of conviction;
+    (c) penalty imposed;
+    (d) date of judgment;
+    (e) any subsequent modification, suspension, or extinction of penalties.
 
 3. Access to the Register shall be governed by law and may distinguish between public and restricted entries.
 

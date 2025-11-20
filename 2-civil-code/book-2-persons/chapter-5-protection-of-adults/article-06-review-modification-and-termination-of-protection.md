@@ -19,16 +19,16 @@ status: active
 2. The protected person, the curator, tutor, advisor, family members, or the public authority may at any time apply for review, modification, or termination of the protection measure.
 
 3. Upon review, the court or authority may:
-    a. confirm the protection measure as it stands;
-    b. modify the measure to make it more or less restrictive, depending on changes in the person's condition or circumstances;
-    c. replace one form of protection with another more appropriate form;
-    d. change the curator, tutor, or advisor;
-    e. terminate the protection measure if it is no longer necessary.
+    (a) confirm the protection measure as it stands;
+    (b) modify the measure to make it more or less restrictive, depending on changes in the person's condition or circumstances;
+    (c) replace one form of protection with another more appropriate form;
+    (d) change the curator, tutor, or advisor;
+    (e) terminate the protection measure if it is no longer necessary.
 
 4. The protection measure shall be terminated if:
-    a. the protected person has regained capacity to care for themselves or administer their property;
-    b. the reasons for which protection was instituted no longer exist;
-    c. the protected person dies.
+    (a) the protected person has regained capacity to care for themselves or administer their property;
+    (b) the reasons for which protection was instituted no longer exist;
+    (c) the protected person dies.
 
 5. Upon termination of protection, the protected person regains full capacity and the curator, tutor, or advisor ceases to have authority. The curator or tutor to property must render a final account, return the property to the person, and obtain a discharge.
 

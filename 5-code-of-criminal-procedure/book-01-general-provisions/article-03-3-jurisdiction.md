@@ -17,9 +17,9 @@ status: active
 1. The High Court has jurisdiction over all criminal offences.
 
 2. Jurisdiction exists over:
-   a. offences committed in Kaharagia;
-   b. offences committed by Kaharagian nationals abroad;
-   c. offences against Kaharagian nationals or state interests;
-   d. universal jurisdiction offences.
+   (a) offences committed in Kaharagia;
+   (b) offences committed by Kaharagian nationals abroad;
+   (c) offences against Kaharagian nationals or state interests;
+   (d) universal jurisdiction offences.
 
 3. Questions of jurisdiction shall be determined by the court.

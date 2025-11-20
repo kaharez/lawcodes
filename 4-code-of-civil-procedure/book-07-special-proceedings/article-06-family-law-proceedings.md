@@ -17,9 +17,9 @@ status: active
 1. Proceedings under the Civil Code, Book 2 (Family) shall be conducted with sensitivity to family dynamics and privacy.
 
 2. The court may order:
-   a. conciliation or mediation;
-   b. social welfare or psychological reports;
-   c. hearings in camera.
+   (a) conciliation or mediation;
+   (b) social welfare or psychological reports;
+   (c) hearings in camera.
 
 3. In matters involving children, the best interests of the child are paramount.
 

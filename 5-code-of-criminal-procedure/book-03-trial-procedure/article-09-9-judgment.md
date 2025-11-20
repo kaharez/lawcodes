@@ -19,9 +19,9 @@ status: active
 2. If guilt is proven, the court shall convict.
 
 3. Judgment shall be in writing and include:
-   a. findings of fact;
-   b. conclusions on guilt;
-   c. reasons;
-   d. the verdict.
+   (a) findings of fact;
+   (b) conclusions on guilt;
+   (c) reasons;
+   (d) the verdict.
 
 4. Judgment shall be pronounced in public.

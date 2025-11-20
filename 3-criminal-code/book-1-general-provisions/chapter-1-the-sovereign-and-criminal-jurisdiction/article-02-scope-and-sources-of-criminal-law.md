@@ -17,9 +17,9 @@ status: active
 1. This Code defines criminal offences and prescribes the penalties applicable to persons under the jurisdiction of the State of Kaharagia.
 
 2. Criminal law arises from:
-    a. this Criminal Code;
-    b. Sovereign Decrees issued pursuant to it; and
-    c. international conventions recognised as part of the law of the State.
+    (a) this Criminal Code;
+    (b) Sovereign Decrees issued pursuant to it; and
+    (c) international conventions recognised as part of the law of the State.
 
 3. No person may be convicted or punished for an act or omission that did not constitute an offence at the time it was committed.
 

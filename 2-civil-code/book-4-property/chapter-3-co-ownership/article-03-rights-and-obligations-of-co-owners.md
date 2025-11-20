@@ -25,8 +25,8 @@ status: active
 5. Decisions concerning the administration and ordinary use of the property require the consent of a majority of co-owners representing more than half of the shares.
 
 6. Decisions concerning extraordinary administration, substantial alteration, or acts of disposition require:
-    a. the unanimous consent of all co-owners; or
-    b. judicial authorisation upon petition of co-owners representing a majority of the shares, where refusal by other co-owners is unreasonable.
+    (a) the unanimous consent of all co-owners; or
+    (b) judicial authorisation upon petition of co-owners representing a majority of the shares, where refusal by other co-owners is unreasonable.
 
 7. A co-owner may not make alterations to the property without the consent of the other co-owners, unless the alteration is necessary for preservation or maintenance.
 

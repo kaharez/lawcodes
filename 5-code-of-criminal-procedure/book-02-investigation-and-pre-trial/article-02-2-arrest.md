@@ -15,13 +15,13 @@ status: active
 # Article 2 – Arrest
 
 1. A person may be arrested:
-   a. with a warrant issued by a judge;
-   b. without warrant if caught committing an offence;
-   c. without warrant for serious offences on reasonable grounds.
+   (a) with a warrant issued by a judge;
+   (b) without warrant if caught committing an offence;
+   (c) without warrant for serious offences on reasonable grounds.
 
 2. Upon arrest, the person shall be informed of:
-   a. the reason for arrest;
-   b. the right to remain silent;
-   c. the right to legal representation.
+   (a) the reason for arrest;
+   (b) the right to remain silent;
+   (c) the right to legal representation.
 
 3. Use of force in arrest shall be reasonable and proportionate.

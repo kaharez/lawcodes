@@ -17,9 +17,9 @@ status: active
 1. Any person who repeatedly or seriously harasses, intimidates, or threatens another person in a manner that violates personal dignity or emotional security commits an offence.
 
 2. Harassment includes:
-    a. persistent unwanted communications;
-    b. threats of harm, blackmail, or coercion;
-    c. dissemination of personal information with the intent to shame, endanger, or distress;
-    d. digital harassment or cyberstalking.
+    (a) persistent unwanted communications;
+    (b) threats of harm, blackmail, or coercion;
+    (c) dissemination of personal information with the intent to shame, endanger, or distress;
+    (d) digital harassment or cyberstalking.
 
 3. This offence is punishable within Penalty Band B, or Penalty Band C where the conduct is aggravated by threats, exploitation, or targeting of minors or vulnerable persons.

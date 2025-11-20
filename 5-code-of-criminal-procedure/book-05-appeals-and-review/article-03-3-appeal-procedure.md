@@ -17,9 +17,9 @@ status: active
 1. Appeals proceed on the trial record unless fresh evidence is admitted.
 
 2. Fresh evidence may be admitted if:
-   a. it could not have been obtained with reasonable diligence at trial;
-   b. it is credible and relevant;
-   c. it could reasonably affect the verdict.
+   (a) it could not have been obtained with reasonable diligence at trial;
+   (b) it is credible and relevant;
+   (c) it could reasonably affect the verdict.
 
 3. Parties shall file written submissions.
 

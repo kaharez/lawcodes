@@ -19,7 +19,7 @@ status: active
 2. Certified copies of public records are admissible without further proof.
 
 3. Public documents include:
-   a. legislative acts;
-   b. court records;
-   c. official registers;
-   d. documents issued by public authorities.
+   (a) legislative acts;
+   (b) court records;
+   (c) official registers;
+   (d) documents issued by public authorities.

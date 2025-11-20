@@ -23,8 +23,8 @@ status: active
 4. During the pendency of a suspensive condition, the creditor may take conservatory measures to preserve their rights, but may not demand performance.
 
 5. A condition is deemed fulfilled when:
-    a. the uncertain event occurs;
-    b. fulfilment is prevented by the party who would benefit from non-fulfilment.
+    (a) the uncertain event occurs;
+    (b) fulfilment is prevented by the party who would benefit from non-fulfilment.
 
 6. A term is a future event that is certain to occur, which delays or terminates the performance of an obligation. An obligation subject to a suspensive term is enforceable but not yet due. An obligation subject to a resolutory term terminates upon arrival of the term.
 

@@ -15,9 +15,9 @@ status: active
 # Article 2 – Types of Evidence
 
 1. Evidence may be:
-   a. oral testimony of witnesses;
-   b. documentary evidence;
-   c. real evidence (physical objects);
-   d. electronic or digital evidence.
+   (a) oral testimony of witnesses;
+   (b) documentary evidence;
+   (c) real evidence (physical objects);
+   (d) electronic or digital evidence.
 
 2. All relevant and admissible evidence may be presented.

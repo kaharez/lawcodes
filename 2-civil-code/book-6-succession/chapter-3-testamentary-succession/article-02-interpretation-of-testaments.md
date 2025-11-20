@@ -21,10 +21,10 @@ status: active
 3. Testaments are to be interpreted liberally to give effect to the testator's wishes and to avoid intestacy or failure of dispositions, provided such interpretation is consistent with the language used and the law.
 
 4. In case of ambiguity or doubt, preference is to be given to interpretations that:
-    a. uphold the validity of the testament and its dispositions;
-    b. favour natural objects of the testator's bounty, such as family members;
-    c. preserve equality among beneficiaries of the same class;
-    d. avoid disinheritance of forced heirs without clear justification.
+    (a) uphold the validity of the testament and its dispositions;
+    (b) favour natural objects of the testator's bounty, such as family members;
+    (c) preserve equality among beneficiaries of the same class;
+    (d) avoid disinheritance of forced heirs without clear justification.
 
 5. Technical legal terms are presumed to be used in their legal sense, unless the context indicates otherwise. Common words are to be understood in their ordinary meaning.
 

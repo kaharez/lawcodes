@@ -17,10 +17,10 @@ status: active
 1. Any person who intentionally uses, reproduces, alters, or displays the symbols, emblems, insignia, or heraldic representations of the State of Kaharagia without lawful authority commits an offence.
 
 2. Misuse of State symbols includes:
-    a. unauthorised reproduction or alteration of the State Arms or Seal;
-    b. creation or display of counterfeit or deceptively similar insignia;
-    c. using State symbols in a manner likely to mislead the public or imply official authority;
-    d. degrading, defacing, or desecrating State symbols in a manner that undermines the dignity of the State.
+    (a) unauthorised reproduction or alteration of the State Arms or Seal;
+    (b) creation or display of counterfeit or deceptively similar insignia;
+    (c) using State symbols in a manner likely to mislead the public or imply official authority;
+    (d) degrading, defacing, or desecrating State symbols in a manner that undermines the dignity of the State.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the act is carried out for fraudulent purposes or to facilitate another offence.
 

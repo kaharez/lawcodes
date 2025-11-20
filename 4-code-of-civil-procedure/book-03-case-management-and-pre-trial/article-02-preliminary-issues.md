@@ -15,9 +15,9 @@ status: active
 # Article 2 – Preliminary Issues
 
 1. Preliminary issues may be determined before trial, including:
-   a. jurisdiction;
-   b. statute of limitations;
-   c. legal questions determinative of the case;
-   d. admissibility of evidence.
+   (a) jurisdiction;
+   (b) statute of limitations;
+   (c) legal questions determinative of the case;
+   (d) admissibility of evidence.
 
 2. The court may order separate determination of preliminary issues where it will save time and costs.

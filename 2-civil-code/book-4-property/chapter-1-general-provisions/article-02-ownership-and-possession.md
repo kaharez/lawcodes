@@ -19,15 +19,15 @@ status: active
 2. Environmental duties, animal welfare obligations, and sustainable use requirements established in Chapters 7 and 8 of this Book supersede and limit the exercise of property rights. Where there is a conflict between property rights and environmental protection or animal welfare, the environmental or welfare obligations shall prevail, subject to fair compensation where expropriation or significant restriction of use occurs for public purposes.
 
 3. Subject to paragraphs 1 and 2 above, the owner may exercise all rights over the property, including:
-    a. the right to possess, occupy, and use the property;
-    b. the right to enjoy the fruits and revenues produced by the property;
-    c. the right to transform, improve, or alter the property;
-    d. the right to alienate, encumber, or otherwise dispose of the property.
+    (a) the right to possess, occupy, and use the property;
+    (b) the right to enjoy the fruits and revenues produced by the property;
+    (c) the right to transform, improve, or alter the property;
+    (d) the right to alienate, encumber, or otherwise dispose of the property.
 
 4. Ownership may be held:
-    a. individually by a single person;
-    b. jointly by multiple persons in undivided shares (co-ownership);
-    c. subject to limited real rights in favour of others, such as usufruct or servitude.
+    (a) individually by a single person;
+    (b) jointly by multiple persons in undivided shares (co-ownership);
+    (c) subject to limited real rights in favour of others, such as usufruct or servitude.
 
 5. Possession is the exercise of physical control over property, whether by the owner or another person, with the intention to hold it as one's own or on behalf of another.
 

@@ -15,9 +15,9 @@ status: active
 # Article 4 – Admissibility
 
 1. Relevant evidence is admissible unless:
-   a. excluded by law;
-   b. obtained unlawfully;
-   c. privileged;
-   d. its prejudicial effect outweighs probative value.
+   (a) excluded by law;
+   (b) obtained unlawfully;
+   (c) privileged;
+   (d) its prejudicial effect outweighs probative value.
 
 2. The burden of proving admissibility rests on the party tendering the evidence.

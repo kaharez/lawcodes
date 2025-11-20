@@ -15,12 +15,12 @@ status: active
 # Article 1 – Right of Appeal
 
 1. A convicted person may appeal against:
-   a. conviction;
-   b. sentence;
-   c. both.
+   (a) conviction;
+   (b) sentence;
+   (c) both.
 
 2. The prosecution may appeal against:
-   a. acquittal (on questions of law only);
-   b. sentence (if manifestly inadequate).
+   (a) acquittal (on questions of law only);
+   (b) sentence (if manifestly inadequate).
 
 3. Appeals lie to the appellate division of the High Court.

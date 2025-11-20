@@ -17,22 +17,22 @@ status: active
 1. An obligation is a legal relationship whereby one person, the debtor, is bound to perform a specific act or forbearance for the benefit of another person, the creditor.
 
 2. The object of an obligation may consist of:
-    a. giving or delivering something;
-    b. doing or performing an act or service;
-    c. refraining from doing something.
+    (a) giving or delivering something;
+    (b) doing or performing an act or service;
+    (c) refraining from doing something.
 
 3. Every obligation must have:
-    a. parties capable of creating legal relations;
-    b. an object that is possible, lawful, and sufficiently determined or determinable;
-    c. a cause or juridical ground that justifies the obligation.
+    (a) parties capable of creating legal relations;
+    (b) an object that is possible, lawful, and sufficiently determined or determinable;
+    (c) a cause or juridical ground that justifies the obligation.
 
 4. An obligation that lacks any essential element is null and produces no legal effects.
 
 5. Obligations may arise from:
-    a. contracts and other juridical acts;
-    b. delicts and quasi-delicts;
-    c. quasi-contracts and other facts to which the law attaches obligations;
-    d. operation of law.
+    (a) contracts and other juridical acts;
+    (b) delicts and quasi-delicts;
+    (c) quasi-contracts and other facts to which the law attaches obligations;
+    (d) operation of law.
 
 6. Unless otherwise provided by law or agreement, obligations are presumed to be of result, requiring the debtor to achieve a specific outcome, rather than obligations of means, requiring only reasonable efforts.
 

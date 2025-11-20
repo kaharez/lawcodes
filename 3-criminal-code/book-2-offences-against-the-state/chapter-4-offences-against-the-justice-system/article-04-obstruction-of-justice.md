@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally obstructs, hinders, or interferes with the administration of justice commits an offence.
 
 2. Obstruction of justice includes:
-    a. destroying, concealing, or altering evidence;
-    b. intimidating, bribing, or threatening witnesses, victims, or officials;
-    c. interfering with investigations, prosecutions, or court proceedings;
-    d. using digital means to distort or suppress evidence or communications relevant to a case.
+    (a) destroying, concealing, or altering evidence;
+    (b) intimidating, bribing, or threatening witnesses, victims, or officials;
+    (c) interfering with investigations, prosecutions, or court proceedings;
+    (d) using digital means to distort or suppress evidence or communications relevant to a case.
 
 3. Obstruction of justice is punishable within Penalty Band C, or Penalty Band D where the interference relates to a serious offence or endangers judicial integrity.

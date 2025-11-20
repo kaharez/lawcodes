@@ -15,8 +15,8 @@ status: active
 # Article 2 – Spousal Privilege
 
 1. A person is not compellable to testify against their spouse, except in cases of:
-   a. offences against the spouse or children;
-   b. offences against property jointly owned.
+   (a) offences against the spouse or children;
+   (b) offences against property jointly owned.
 
 2. Communications between spouses during marriage are privileged.
 

@@ -15,8 +15,8 @@ status: active
 # Article 3 – Appointment of Guardians
 
 1. Guardians may be:
-    a. persons designated by the parents in a will or declaration;
-    b. relatives or other suitable persons approved by the Chancellery; or
-    c. the Chancellery itself, acting in the absence of private guardianship.
+    (a) persons designated by the parents in a will or declaration;
+    (b) relatives or other suitable persons approved by the Chancellery; or
+    (c) the Chancellery itself, acting in the absence of private guardianship.
 2. The appointment of a guardian shall be confirmed by sovereign decree and recorded in the civil registers.
 3. Multiple guardians may be appointed jointly where it serves the ward’s best interests.

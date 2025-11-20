@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally disrespects the authority, dignity, or lawful orders of the High Court or its magistrates commits contempt of court.
 
 2. Contempt includes:
-    a. wilful refusal to comply with court orders;
-    b. disruptive behaviour during proceedings;
-    c. threatening or insulting the Court, magistrates, or officers;
-    d. obstructing the execution of judgments.
+    (a) wilful refusal to comply with court orders;
+    (b) disruptive behaviour during proceedings;
+    (c) threatening or insulting the Court, magistrates, or officers;
+    (d) obstructing the execution of judgments.
 
 3. Contempt of court is punishable within Penalty Band B, or Penalty Band C where it obstructs justice or undermines the authority of the Court.

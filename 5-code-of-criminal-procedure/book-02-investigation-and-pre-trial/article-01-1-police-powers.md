@@ -17,9 +17,9 @@ status: active
 1. Police may investigate suspected offences.
 
 2. Investigative powers include:
-   a. questioning suspects and witnesses;
-   b. examining scenes and securing evidence;
-   c. seizure of evidence with judicial authorization;
-   d. other lawful investigative methods.
+   (a) questioning suspects and witnesses;
+   (b) examining scenes and securing evidence;
+   (c) seizure of evidence with judicial authorization;
+   (d) other lawful investigative methods.
 
 3. Evidence obtained unlawfully may be excluded.

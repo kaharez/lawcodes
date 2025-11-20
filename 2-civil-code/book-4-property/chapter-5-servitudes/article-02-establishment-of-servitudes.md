@@ -15,17 +15,17 @@ status: active
 # Article 2 – Establishment of Servitudes
 
 1. Servitudes may be established by:
-    a. title, whether by contract, testamentary disposition, or other juridical act;
-    b. destination of the owner, when a single owner of two estates establishes a servitude-like arrangement that continues after the estates are separated;
-    c. prescription, through continuous and apparent use for the period prescribed by law;
-    d. operation of law, where the law imposes servitudes for reasons of public utility or necessity.
+    (a) title, whether by contract, testamentary disposition, or other juridical act;
+    (b) destination of the owner, when a single owner of two estates establishes a servitude-like arrangement that continues after the estates are separated;
+    (c) prescription, through continuous and apparent use for the period prescribed by law;
+    (d) operation of law, where the law imposes servitudes for reasons of public utility or necessity.
 
 2. The establishment of a servitude by title requires a written instrument signed by the owner of the servient estate or their authorised representative.
 
 3. A servitude established by destination of the owner arises when:
-    a. a single owner of two contiguous estates establishes an arrangement whereby one estate serves the other;
-    b. the estates are subsequently separated by alienation or succession;
-    c. the arrangement was continuous, apparent, and necessary for the use of the dominant estate.
+    (a) a single owner of two contiguous estates establishes an arrangement whereby one estate serves the other;
+    (b) the estates are subsequently separated by alienation or succession;
+    (c) the arrangement was continuous, apparent, and necessary for the use of the dominant estate.
 
 4. Continuous servitudes that are apparent may be acquired by prescription through peaceful, public, and unequivocal exercise for a period of ten years.
 

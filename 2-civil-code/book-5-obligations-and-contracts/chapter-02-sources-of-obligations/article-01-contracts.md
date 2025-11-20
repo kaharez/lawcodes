@@ -23,9 +23,9 @@ status: active
 4. Contracts have effect not only between the parties but also, where applicable, in favour of third parties in accordance with the provisions governing third-party beneficiaries and stipulations for another.
 
 5. Parties are free to enter into any contract they choose and to determine its contents, provided that:
-    a. the contract does not violate mandatory provisions of law;
-    b. the contract does not contravene public order or morals;
-    c. the object and cause of the contract are lawful.
+    (a) the contract does not violate mandatory provisions of law;
+    (b) the contract does not contravene public order or morals;
+    (c) the object and cause of the contract are lawful.
 
 6. In addition to the obligations expressly undertaken, contracts impose obligations of good faith, including duties to cooperate, inform, and act loyally toward the other party.
 

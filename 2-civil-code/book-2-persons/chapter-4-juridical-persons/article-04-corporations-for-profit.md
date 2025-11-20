@@ -19,12 +19,12 @@ status: active
 2. Corporations for profit are governed by the provisions of this Code, by special legislation or decree regulating corporations and commercial entities, and by their articles of incorporation and bylaws.
 
 3. A corporation for profit is formed by the execution and registration of articles of incorporation, which shall state:
-    a. the name of the corporation;
-    b. the purposes and objects of the corporation;
-    c. the registered office and domicile;
-    d. the capital structure, including authorized share capital and classes of shares, if applicable;
-    e. the names and addresses of the initial directors or governing board;
-    f. such other particulars as are required by law or decree.
+    (a) the name of the corporation;
+    (b) the purposes and objects of the corporation;
+    (c) the registered office and domicile;
+    (d) the capital structure, including authorized share capital and classes of shares, if applicable;
+    (e) the names and addresses of the initial directors or governing board;
+    (f) such other particulars as are required by law or decree.
 
 4. The articles of incorporation must be registered with the appropriate authority or registry designated by law or decree. Upon registration, the corporation acquires legal personality.
 

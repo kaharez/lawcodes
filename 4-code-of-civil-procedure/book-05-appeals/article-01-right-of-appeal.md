@@ -21,6 +21,6 @@ status: active
 3. Interlocutory orders may be appealed only with leave of the court.
 
 4. The grounds for granting leave include:
-   a. the order raises an important question of law;
-   b. the order causes irreparable harm;
-   c. the order is manifestly wrong.
+   (a) the order raises an important question of law;
+   (b) the order causes irreparable harm;
+   (c) the order is manifestly wrong.

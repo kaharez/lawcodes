@@ -17,9 +17,9 @@ status: active
 1. This Civil Code governs the civil law relationships of all persons within the jurisdiction of Kaharagia.
 
 2. It applies to:
-   a. natural persons, whether nationals or foreigners;
-   b. juridical persons duly constituted or recognized;
-   c. all civil matters not governed by special legislation.
+   (a) natural persons, whether nationals or foreigners;
+   (b) juridical persons duly constituted or recognized;
+   (c) all civil matters not governed by special legislation.
 
 3. Special laws on particular subjects shall prevail over general provisions of this Code in their specific domains.
 

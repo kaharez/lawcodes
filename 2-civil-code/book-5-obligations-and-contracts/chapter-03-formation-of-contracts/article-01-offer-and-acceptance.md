@@ -21,14 +21,14 @@ status: active
 3. An offer may be made to a specific person, to a class of persons, or to the public at large. It becomes effective when it reaches the offeree or is made public.
 
 4. An offer may be revoked at any time before acceptance, unless:
-    a. the offer states that it is irrevocable or specifies a period for acceptance;
-    b. the offeree has reasonably relied upon the offer to their detriment;
-    c. acceptance has already been dispatched.
+    (a) the offer states that it is irrevocable or specifies a period for acceptance;
+    (b) the offeree has reasonably relied upon the offer to their detriment;
+    (c) acceptance has already been dispatched.
 
 5. An offer lapses and ceases to have effect if:
-    a. it is rejected by the offeree;
-    b. the period for acceptance expires without acceptance being communicated;
-    c. the offeror or offeree dies or loses legal capacity before acceptance, unless the offer was made in the course of trade or profession.
+    (a) it is rejected by the offeree;
+    (b) the period for acceptance expires without acceptance being communicated;
+    (c) the offeror or offeree dies or loses legal capacity before acceptance, unless the offer was made in the course of trade or profession.
 
 6. Acceptance is a statement or conduct by the offeree indicating assent to the offer. It must be clear, unequivocal, and communicated to the offeror.
 

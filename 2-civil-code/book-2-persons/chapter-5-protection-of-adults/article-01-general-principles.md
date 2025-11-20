@@ -21,10 +21,10 @@ status: active
 3. Protection measures must be the least restrictive necessary to achieve their purposes. Preference shall be given to measures that support the person's decision-making and preserve their autonomy, rather than substituting the decision-making of a representative.
 
 4. The protected person has the right to:
-    a. be informed of all measures concerning them and to be consulted to the extent possible;
-    b. receive appropriate services and support to maximize their independence and participation in decisions;
-    c. maintain personal relationships and participate in family and community life;
-    d. have their wishes, values, and preferences taken into account;
-    e. seek review and modification of protection measures.
+    (a) be informed of all measures concerning them and to be consulted to the extent possible;
+    (b) receive appropriate services and support to maximize their independence and participation in decisions;
+    (c) maintain personal relationships and participate in family and community life;
+    (d) have their wishes, values, and preferences taken into account;
+    (e) seek review and modification of protection measures.
 
 5. Protection measures are subject to periodic review by the court or the competent authority to ensure they remain necessary, appropriate, and in the best interests of the protected person.

@@ -17,10 +17,10 @@ status: active
 1. Any person who obtains, or attempts to obtain, Kaharagian nationality or Verified Status through fraud, deception, forged documents, or the concealment of material facts commits an offence.
 
 2. Fraudulent acquisition includes:
-    a. use of forged identity documents;
-    b. false declarations regarding loyalty, residence, identity, or background;
-    c. digital alteration of application materials or supporting documents;
-    d. conspiracies to assist another in fraudulent acquisition.
+    (a) use of forged identity documents;
+    (b) false declarations regarding loyalty, residence, identity, or background;
+    (c) digital alteration of application materials or supporting documents;
+    (d) conspiracies to assist another in fraudulent acquisition.
 
 3. This offence is punishable within Penalty Band D, or Penalty Band E where the fraud affects national security or State registers.
 

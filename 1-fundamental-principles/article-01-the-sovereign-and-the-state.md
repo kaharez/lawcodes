@@ -23,11 +23,11 @@ status: active
 5. The Sovereign is not subject to the provisions of this Civil Code. The Civil Code governs relations among subjects and between subjects and the state in its administrative capacity, but does not bind the Sovereign personally. The Sovereign promulgates law but stands above it, exercising sovereign prerogative in accordance with the constitutional traditions and customs of Kaharagia.
 
 6. Matters relating to the Royal Family shall be governed exclusively by Royal House Law, dynastic tradition, and sovereign decree, and shall not, save where expressly provided otherwise, fall within the scope of this Civil Code or the jurisdiction of the ordinary courts. For the purposes of this provision, such matters include, without limitation:
-    a. succession to the Crown and to the sovereign dignity;
-    b. the titles, precedence, honours, styles, and prerogatives of members of the Royal House;
-    c. the private estates, property, and personal affairs of the Sovereign and the Royal Family;
-    d. the governance, administration, and internal organisation of the Royal Household; and
-    e. marriage, children, and family matters of the Sovereign and members of the Royal Family.
+    (a) succession to the Crown and to the sovereign dignity;
+    (b) the titles, precedence, honours, styles, and prerogatives of members of the Royal House;
+    (c) the private estates, property, and personal affairs of the Sovereign and the Royal Family;
+    (d) the governance, administration, and internal organisation of the Royal Household; and
+    (e) marriage, children, and family matters of the Sovereign and members of the Royal Family.
 
 7. The Sovereign may not be sued, prosecuted, or brought before any court or tribunal. Sovereign immunity is absolute and extends to all acts undertaken by the Sovereign in the exercise of sovereign authority. Claims against the state in its administrative or proprietary capacity may be brought in accordance with law, but do not implicate the person or dignity of the Sovereign.
 

@@ -17,18 +17,18 @@ status: active
 2. Treaties and international agreements concluded by Kaharagia are binding upon the State in accordance with international law.
 
 3. A treaty becomes part of the domestic law of Kaharagia and may be applied by courts and administrative authorities only:
-   a. after it has been ratified or acceded to by The Sovereign;
-   b. after it has been published in the Royal Kaharagian Gazette or otherwise promulgated in accordance with law;
-   c. to the extent that its provisions are sufficiently precise and unconditional to be directly applicable, or have been implemented through domestic legislation.
+   (a) after it has been ratified or acceded to by The Sovereign;
+   (b) after it has been published in the Royal Kaharagian Gazette or otherwise promulgated in accordance with law;
+   (c) to the extent that its provisions are sufficiently precise and unconditional to be directly applicable, or have been implemented through domestic legislation.
 
 4. Where a treaty requires changes to domestic law or imposes obligations requiring legislative implementation, such implementation shall be effected through the enactment of domestic legislation.
 
 5. In interpreting domestic law, courts shall prefer interpretations that are consistent with Kaharagia's international obligations, unless such interpretation is clearly precluded by the language or intent of the domestic law.
 
 6. Where domestic law and an applicable treaty are irreconcilable, the treaty prevails to the extent of the inconsistency, provided that:
-   a. the treaty has been properly ratified and promulgated;
-   b. its application does not violate the constitutional order or Sovereign prerogatives;
-   c. its application does not contravene fundamental principles of public policy.
+   (a) the treaty has been properly ratified and promulgated;
+   (b) its application does not violate the constitutional order or Sovereign prerogatives;
+   (c) its application does not contravene fundamental principles of public policy.
 
 7. Customary international law is part of the law of Kaharagia to the extent that it is not inconsistent with domestic legislation or with the constitutional order.
 

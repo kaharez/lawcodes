@@ -17,9 +17,9 @@ status: active
 1. Provisions of this Code come into force on the date specified in the enactment decree or, in the absence of such specification, upon publication in the Royal Kaharagian Gazette.
 
 2. The law has effect only for the future and has no retroactive operation, except:
-   a. when expressly so provided;
-   b. in interpretative provisions;
-   c. in provisions more favorable to the accused in penal matters.
+   (a) when expressly so provided;
+   (b) in interpretative provisions;
+   (c) in provisions more favorable to the accused in penal matters.
 
 3. Rights validly acquired under former law are preserved, unless expressly provided otherwise.
 

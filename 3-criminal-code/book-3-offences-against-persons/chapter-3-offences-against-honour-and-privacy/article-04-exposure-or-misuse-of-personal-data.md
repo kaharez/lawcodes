@@ -17,9 +17,9 @@ status: active
 1. Any person who unlawfully publishes, disseminates, or exploits the personal information or digital identifiers of another person commits an offence.
 
 2. This includes:
-    a. disclosure of sensitive identity data;
-    b. revealing information intended to shame, harm, or intimidate;
-    c. doxxing or encouraging others to target the person;
-    d. using personal data for fraudulent, coercive, or exploitative purposes.
+    (a) disclosure of sensitive identity data;
+    (b) revealing information intended to shame, harm, or intimidate;
+    (c) doxxing or encouraging others to target the person;
+    (d) using personal data for fraudulent, coercive, or exploitative purposes.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the act endangers personal safety, identity integrity, or lawful rights.

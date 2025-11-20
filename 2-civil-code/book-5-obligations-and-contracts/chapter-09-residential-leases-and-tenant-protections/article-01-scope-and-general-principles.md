@@ -19,11 +19,11 @@ status: active
 2. The provisions of this chapter are of public order and may not be waived or circumvented by agreement to the detriment of the tenant. Any clause contrary to the protections established in this chapter is null and void.
 
 3. Housing is a fundamental right. Residential leases shall be interpreted and applied in a manner that ensures:
-    a. security of tenure and protection against arbitrary eviction;
-    b. affordability and protection against excessive rent;
-    c. habitability and decent living conditions;
-    d. non-discrimination and equal access to housing;
-    e. the right to organise and participate in tenant associations.
+    (a) security of tenure and protection against arbitrary eviction;
+    (b) affordability and protection against excessive rent;
+    (c) habitability and decent living conditions;
+    (d) non-discrimination and equal access to housing;
+    (e) the right to organise and participate in tenant associations.
 
 4. In case of conflict between the provisions of this chapter and general contract law, the provisions of this chapter prevail.
 

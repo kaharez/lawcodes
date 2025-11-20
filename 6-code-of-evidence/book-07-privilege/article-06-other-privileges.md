@@ -15,9 +15,9 @@ status: active
 # Article 6 – Other Privileges
 
 1. Other privileges recognized by law include:
-   a. state secrets;
-   b. doctor-patient confidentiality (in limited circumstances);
-   c. religious confession;
-   d. journalistic sources (subject to balancing).
+   (a) state secrets;
+   (b) doctor-patient confidentiality (in limited circumstances);
+   (c) religious confession;
+   (d) journalistic sources (subject to balancing).
 
 2. Claims of privilege shall be determined by the court.

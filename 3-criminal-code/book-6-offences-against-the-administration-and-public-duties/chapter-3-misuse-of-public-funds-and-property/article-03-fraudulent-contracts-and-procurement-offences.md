@@ -17,28 +17,28 @@ status: active
 1. Fraudulent contracts and procurement offences are committed when public officials or contractors engage in fraudulent, corrupt, or dishonest conduct in public procurement, contracting, or tendering processes.
 
 2. Fraudulent contracts and procurement offences include:
-    a. rigging bids or engaging in bid-rigging schemes;
-    b. awarding contracts on the basis of bribery, favoritism, or corruption rather than merit;
-    c. falsifying qualifications, credentials, or bids to obtain public contracts;
-    d. colluding with contractors to inflate prices, overcharge, or defraud the public purse;
-    e. splitting contracts to avoid oversight or competitive tendering requirements;
-    f. accepting kickbacks, secret commissions, or corrupt payments in relation to public contracts;
-    g. creating shell companies or using nominees to circumvent procurement rules;
-    h. billing for work not performed or goods not delivered;
-    i. substituting inferior goods or services for those contracted; or
-    j. any other fraudulent or corrupt conduct in public procurement.
+    (a) rigging bids or engaging in bid-rigging schemes;
+    (b) awarding contracts on the basis of bribery, favoritism, or corruption rather than merit;
+    (c) falsifying qualifications, credentials, or bids to obtain public contracts;
+    (d) colluding with contractors to inflate prices, overcharge, or defraud the public purse;
+    (e) splitting contracts to avoid oversight or competitive tendering requirements;
+    (f) accepting kickbacks, secret commissions, or corrupt payments in relation to public contracts;
+    (g) creating shell companies or using nominees to circumvent procurement rules;
+    (h) billing for work not performed or goods not delivered;
+    (i) substituting inferior goods or services for those contracted; or
+    (j) any other fraudulent or corrupt conduct in public procurement.
 
 3. Fraudulent contracts and procurement offences are punished under Penalty Band E.
 
 4. The penalty is aggravated where:
-    a. the fraud involves very substantial amounts or high-value contracts;
-    b. the fraud is systematic or involves multiple contracts or procurement processes;
-    c. the fraud is committed by persons in senior positions or with authority over procurement;
-    d. the fraud involves organized criminal networks or systematic corruption;
-    e. the fraud results in delivery of substandard goods or services affecting public safety, health, or essential services;
-    f. the fraud deprives the public of significant value or resources;
-    g. the fraud involves emergency or crisis procurement where public need is urgent; or
-    h. the offender has previous convictions for procurement fraud or corruption.
+    (a) the fraud involves very substantial amounts or high-value contracts;
+    (b) the fraud is systematic or involves multiple contracts or procurement processes;
+    (c) the fraud is committed by persons in senior positions or with authority over procurement;
+    (d) the fraud involves organized criminal networks or systematic corruption;
+    (e) the fraud results in delivery of substandard goods or services affecting public safety, health, or essential services;
+    (f) the fraud deprives the public of significant value or resources;
+    (g) the fraud involves emergency or crisis procurement where public need is urgent; or
+    (h) the offender has previous convictions for procurement fraud or corruption.
 
 5. Both public officials who award fraudulent contracts and contractors who participate in procurement fraud are subject to the penalties under this Article.
 

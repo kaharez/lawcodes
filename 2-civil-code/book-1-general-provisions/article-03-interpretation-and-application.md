@@ -15,10 +15,10 @@ status: active
 # Article 3 – Interpretation and Application
 
 1. The provisions of this Code shall be interpreted:
-   a. according to their text and context;
-   b. in light of their purpose and the general scheme of the Code;
-   c. in harmony with the Fundamental Principles;
-   d. in accordance with good faith and the reasonable expectations of parties.
+   (a) according to their text and context;
+   (b) in light of their purpose and the general scheme of the Code;
+   (c) in harmony with the Fundamental Principles;
+   (d) in accordance with good faith and the reasonable expectations of parties.
 
 2. Where a provision is susceptible of multiple interpretations, the interpretation most consonant with justice and equity shall be preferred.
 

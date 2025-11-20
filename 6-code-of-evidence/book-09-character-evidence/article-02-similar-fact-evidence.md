@@ -19,10 +19,10 @@ status: active
 2. Similar fact evidence is admissible if its probative value substantially outweighs prejudicial effect.
 
 3. It may be admissible to show:
-   a. modus operandi (distinctive pattern);
-   b. identity;
-   c. intent;
-   d. absence of mistake or accident;
-   e. rebutting defenses.
+   (a) modus operandi (distinctive pattern);
+   (b) identity;
+   (c) intent;
+   (d) absence of mistake or accident;
+   (e) rebutting defenses.
 
 4. Propensity evidence alone is insufficient.

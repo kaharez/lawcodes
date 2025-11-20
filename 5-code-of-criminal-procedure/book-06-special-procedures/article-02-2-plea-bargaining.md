@@ -19,8 +19,8 @@ status: active
 2. Any agreement is subject to court approval.
 
 3. The court shall satisfy itself that:
-   a. the plea is voluntary;
-   b. the factual basis is established;
-   c. the sentence is appropriate.
+   (a) the plea is voluntary;
+   (b) the factual basis is established;
+   (c) the sentence is appropriate.
 
 4. The court is not bound by sentencing recommendations.

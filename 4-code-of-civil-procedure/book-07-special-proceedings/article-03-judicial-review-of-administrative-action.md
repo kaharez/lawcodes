@@ -17,9 +17,9 @@ status: active
 1. A person aggrieved by administrative action may apply for judicial review.
 
 2. Grounds for review include:
-   a. illegality (acting outside legal authority);
-   b. procedural unfairness;
-   c. irrationality or unreasonableness.
+   (a) illegality (acting outside legal authority);
+   (b) procedural unfairness;
+   (c) irrationality or unreasonableness.
 
 3. Remedies include orders to quash, prohibit, or compel administrative action.
 

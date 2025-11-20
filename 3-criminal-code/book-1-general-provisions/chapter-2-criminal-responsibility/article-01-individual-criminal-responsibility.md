@@ -27,8 +27,8 @@ status: active
 6. A person who has attained the age of ten years but has not attained the age of fourteen years is rebuttably presumed to lack criminal capacity. Such a person may be held criminally responsible only if the prosecution proves beyond reasonable doubt that the child understood the nature and wrongfulness of their conduct at the time of the offence.
 
 7. Persons under the age of eighteen years who are subject to criminal proceedings shall be afforded special protections and procedures appropriate to their age, maturity, and circumstances, including:
-    a. proceedings conducted separately from adult offenders;
-    b. priority given to rehabilitation, education, and reintegration over punishment;
-    c. consideration of the child's best interests in all decisions;
-    d. penalties proportionate to the child's age, maturity, and circumstances; and
-    e. confidentiality and protection of identity in accordance with law.
+    (a) proceedings conducted separately from adult offenders;
+    (b) priority given to rehabilitation, education, and reintegration over punishment;
+    (c) consideration of the child's best interests in all decisions;
+    (d) penalties proportionate to the child's age, maturity, and circumstances; and
+    (e) confidentiality and protection of identity in accordance with law.

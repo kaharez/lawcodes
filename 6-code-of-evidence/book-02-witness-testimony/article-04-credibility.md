@@ -17,9 +17,9 @@ status: active
 1. The credibility of witnesses may be challenged.
 
 2. Matters affecting credibility include:
-   a. prior inconsistent statements;
-   b. bias or interest in the outcome;
-   c. character for truthfulness (in limited circumstances);
-   d. capacity to observe and remember.
+   (a) prior inconsistent statements;
+   (b) bias or interest in the outcome;
+   (c) character for truthfulness (in limited circumstances);
+   (d) capacity to observe and remember.
 
 3. Expert evidence may be called on credibility in exceptional cases.

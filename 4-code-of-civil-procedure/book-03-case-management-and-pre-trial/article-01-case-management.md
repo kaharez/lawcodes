@@ -17,11 +17,11 @@ status: active
 1. The court shall actively manage all cases to ensure just, efficient, and proportionate resolution.
 
 2. Case management includes:
-   a. setting timetables for steps in the proceeding;
-   b. limiting issues in dispute;
-   c. determining what evidence is needed;
-   d. encouraging settlement;
-   e. controlling costs.
+   (a) setting timetables for steps in the proceeding;
+   (b) limiting issues in dispute;
+   (c) determining what evidence is needed;
+   (d) encouraging settlement;
+   (e) controlling costs.
 
 3. The court shall hold case management conferences as necessary.
 

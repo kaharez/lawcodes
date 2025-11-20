@@ -19,14 +19,14 @@ status: active
 2. Sale is perfected by agreement on the thing and the price, even if the thing has not been delivered or the price paid.
 
 3. The seller is obliged to:
-    a. deliver the thing sold in the condition agreed, with all accessories and documents;
-    b. transfer ownership free from encumbrances not disclosed or accepted by the buyer;
-    c. warrant against eviction and hidden defects.
+    (a) deliver the thing sold in the condition agreed, with all accessories and documents;
+    (b) transfer ownership free from encumbrances not disclosed or accepted by the buyer;
+    (c) warrant against eviction and hidden defects.
 
 4. The buyer is obliged to:
-    a. pay the price at the time and place agreed;
-    b. take delivery of the thing sold;
-    c. bear the expenses of delivery unless otherwise agreed.
+    (a) pay the price at the time and place agreed;
+    (b) take delivery of the thing sold;
+    (c) bear the expenses of delivery unless otherwise agreed.
 
 5. Risk of loss or damage passes to the buyer upon delivery, unless otherwise agreed. Where the seller delays delivery in breach, risk passes only upon actual delivery.
 
@@ -35,9 +35,9 @@ status: active
 7. The seller warrants against hidden defects that render the thing unfit for its intended use or materially diminish its value. The buyer may, at their option, rescind the sale or claim a reduction in price.
 
 8. The warranty against hidden defects does not apply where:
-    a. the buyer knew or ought to have known of the defect;
-    b. the defect was apparent upon reasonable inspection;
-    c. the seller expressly excluded warranty with the buyer's informed consent.
+    (a) the buyer knew or ought to have known of the defect;
+    (b) the defect was apparent upon reasonable inspection;
+    (c) the seller expressly excluded warranty with the buyer's informed consent.
 
 9. Claims for breach of warranty must be brought within a reasonable time after discovery of the eviction or defect, and in any event within two years of delivery.
 

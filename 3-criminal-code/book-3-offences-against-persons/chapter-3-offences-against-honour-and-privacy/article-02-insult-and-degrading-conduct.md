@@ -17,8 +17,8 @@ status: active
 1. Any person who intentionally insults, degrades, or abuses another person in a manner that seriously violates their dignity commits an offence.
 
 2. Insult includes:
-    a. serious verbal, written, or digital abuse;
-    b. humiliating or demeaning conduct;
-    c. content intended to ridicule or shame.
+    (a) serious verbal, written, or digital abuse;
+    (b) humiliating or demeaning conduct;
+    (c) content intended to ridicule or shame.
 
 3. This offence is punishable within Penalty Band A, or Penalty Band B where the conduct is repeated or carried out publicly.

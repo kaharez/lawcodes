@@ -15,13 +15,13 @@ status: active
 # Article 8 – Orders and Remedies
 
 1. The court may grant any remedy authorized by law, including:
-   a. monetary damages;
-   b. specific performance;
-   c. injunctions (prohibitory or mandatory);
-   d. declarations;
-   e. restitution or return of property;
-   f. rectification or rescission of instruments;
-   g. any other appropriate relief.
+   (a) monetary damages;
+   (b) specific performance;
+   (c) injunctions (prohibitory or mandatory);
+   (d) declarations;
+   (e) restitution or return of property;
+   (f) rectification or rescission of instruments;
+   (g) any other appropriate relief.
 
 2. The court may grant interim or final relief.
 

@@ -23,8 +23,8 @@ status: active
 4. No heir may be compelled to remain in indivision. Any heir may demand partition at any time, unless partition has been excluded by the testator for a specified period not exceeding ten years.
 
 5. Partition may be effected:
-    a. by agreement of all heirs, in accordance with the rules of partition of co-ownership;
-    b. by judicial decree, upon petition of one or more heirs.
+    (a) by agreement of all heirs, in accordance with the rules of partition of co-ownership;
+    (b) by judicial decree, upon petition of one or more heirs.
 
 6. Before partition, debts and obligations of the deceased must be paid or secured. Creditors of the estate have priority over heirs and legatees.
 

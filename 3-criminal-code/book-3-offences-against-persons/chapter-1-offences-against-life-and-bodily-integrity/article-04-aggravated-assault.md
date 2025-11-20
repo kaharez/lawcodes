@@ -15,10 +15,10 @@ status: active
 # Article 4 – Aggravated Assault
 
 1. Assault is aggravated where it:
-    a. causes serious bodily injury;
-    b. is committed against a child, vulnerable person, or dependant;
-    c. is committed using a weapon or dangerous instrument;
-    d. is carried out by more than one person;
-    e. occurs in the context of domestic relationships.
+    (a) causes serious bodily injury;
+    (b) is committed against a child, vulnerable person, or dependant;
+    (c) is committed using a weapon or dangerous instrument;
+    (d) is carried out by more than one person;
+    (e) occurs in the context of domestic relationships.
 
 2. Aggravated assault is punishable within Penalty Band C, or Penalty Band D where the harm is severe.

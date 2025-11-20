@@ -17,21 +17,21 @@ status: active
 1. Public sexual conduct is engaging in sexual activity or explicitly sexual behavior in a public place or in circumstances where the conduct is visible or audible to persons who have not consented to witness such conduct.
 
 2. Public sexual conduct includes:
-    a. sexual intercourse or sexual acts in public places;
-    b. masturbation in public or in view of the public;
-    c. engaging in sexual activity in vehicles where visible to the public;
-    d. engaging in sexual activity in semi-public spaces, including restrooms, changing rooms, or transportation, where others may be present; or
-    e. deliberate exhibition of sexual conduct for the purpose of shocking, alarming, or causing offence.
+    (a) sexual intercourse or sexual acts in public places;
+    (b) masturbation in public or in view of the public;
+    (c) engaging in sexual activity in vehicles where visible to the public;
+    (d) engaging in sexual activity in semi-public spaces, including restrooms, changing rooms, or transportation, where others may be present; or
+    (e) deliberate exhibition of sexual conduct for the purpose of shocking, alarming, or causing offence.
 
 3. Public sexual conduct is punished under Penalty Band C.
 
 4. The penalty is aggravated to Penalty Band D where:
-    a. the conduct occurs in the presence of children or where children are likely to witness it;
-    b. the conduct occurs in places specifically frequented by families or children;
-    c. the conduct is performed for commercial purposes or broadcast publicly;
-    d. the conduct involves multiple persons or is organized;
-    e. the conduct is persistent or repeated despite warnings; or
-    f. the offender has previous convictions for public indecency or sexual offences.
+    (a) the conduct occurs in the presence of children or where children are likely to witness it;
+    (b) the conduct occurs in places specifically frequented by families or children;
+    (c) the conduct is performed for commercial purposes or broadcast publicly;
+    (d) the conduct involves multiple persons or is organized;
+    (e) the conduct is persistent or repeated despite warnings; or
+    (f) the offender has previous convictions for public indecency or sexual offences.
 
 5. This Article does not apply to conduct occurring in designated private areas, adult venues with appropriate restrictions, or artistic performances with proper content warnings and age restrictions.
 

@@ -15,8 +15,8 @@ status: active
 # Article 1 – Competence and Compellability
 
 1. All persons are competent to testify unless:
-   a. incapable of understanding the duty to tell the truth;
-   b. incapable of communicating evidence.
+   (a) incapable of understanding the duty to tell the truth;
+   (b) incapable of communicating evidence.
 
 2. Witnesses are generally compellable, subject to privileges.
 
