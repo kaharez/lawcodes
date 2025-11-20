@@ -23,9 +23,9 @@ status: active
 4. The alienation or encumbrance of a share does not affect the rights of the other co-owners, except as provided by law or agreement.
 
 5. Co-ownership may arise from:
-    a. contract or juridical act;
-    b. succession, where multiple heirs inherit the same property;
-    c. operation of law;
-    d. other causes recognised by law.
+    (a) contract or juridical act;
+    (b) succession, where multiple heirs inherit the same property;
+    (c) operation of law;
+    (d) other causes recognised by law.
 
 6. Co-ownership continues until terminated by partition, consolidation of all shares in a single owner, or loss or destruction of the property.

@@ -15,12 +15,12 @@ status: active
 # Article 5 – Order of Trial
 
 1. Trial proceeds in this order:
-   a. reading of the charge;
-   b. plea;
-   c. prosecution opening;
-   d. prosecution evidence;
-   e. defense case;
-   f. closing arguments;
-   g. judgment.
+   (a) reading of the charge;
+   (b) plea;
+   (c) prosecution opening;
+   (d) prosecution evidence;
+   (e) defense case;
+   (f) closing arguments;
+   (g) judgment.
 
 2. The court may vary the order in the interests of justice.

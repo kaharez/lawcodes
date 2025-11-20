@@ -17,8 +17,8 @@ status: active
 1. The original of a document is preferred.
 
 2. Copies are admissible if:
-   a. the original is unavailable for valid reason;
-   b. the copy is properly verified;
-   c. no genuine issue of authenticity exists.
+   (a) the original is unavailable for valid reason;
+   (b) the copy is properly verified;
+   (c) no genuine issue of authenticity exists.
 
 3. Electronic records are originals if kept in the ordinary course.

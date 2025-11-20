@@ -19,20 +19,20 @@ status: active
 2. The owner of a thing acquires ownership of everything that is produced by it, or that is united or incorporated with it, subject to the rules established in this article and the rights of others.
 
 3. Natural accession to immovable property includes:
-    a. alluvion, being the gradual and imperceptible deposit of soil by water;
-    b. avulsion, being the sudden detachment and deposit of a considerable portion of land;
-    c. formation of new islands in rivers or streams;
-    d. natural fruits and products of the land.
+    (a) alluvion, being the gradual and imperceptible deposit of soil by water;
+    (b) avulsion, being the sudden detachment and deposit of a considerable portion of land;
+    (c) formation of new islands in rivers or streams;
+    (d) natural fruits and products of the land.
 
 4. Artificial accession to immovable property includes buildings, plantations, and works constructed on or affixed to the land. Such accessions belong to the owner of the land, subject to compensation where the construction or plantation was made by another.
 
 5. Where a person builds, plants, or sows on the land of another with materials belonging to themselves:
-    a. if done in good faith, the landowner must compensate the builder for the materials and labour, or permit removal if possible without damage;
-    b. if done in bad faith, the landowner may demand removal at the expense of the builder, or retain the accession without compensation.
+    (a) if done in good faith, the landowner must compensate the builder for the materials and labour, or permit removal if possible without damage;
+    (b) if done in bad faith, the landowner may demand removal at the expense of the builder, or retain the accession without compensation.
 
 6. Where a person builds, plants, or sows on their own land with materials belonging to another:
-    a. if done in good faith, the owner of the materials may demand their value or, if removal is possible without damage, their return;
-    b. if done in bad faith, the owner of the materials may demand removal and restoration at the expense of the builder, or retain ownership and demand double the value.
+    (a) if done in good faith, the owner of the materials may demand their value or, if removal is possible without damage, their return;
+    (b) if done in bad faith, the owner of the materials may demand removal and restoration at the expense of the builder, or retain ownership and demand double the value.
 
 7. Accession to movable property occurs when movable things belonging to different owners are united in such a way that they form a single whole. Ownership of the composite thing belongs to the owner of the principal thing, subject to compensation to the owner of the accessory thing.
 

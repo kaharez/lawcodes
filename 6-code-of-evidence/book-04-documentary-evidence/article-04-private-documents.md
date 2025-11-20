@@ -17,8 +17,8 @@ status: active
 1. Private documents require proof of authenticity.
 
 2. Proof may be by:
-   a. testimony of the author or signatory;
-   b. handwriting comparison;
-   c. circumstantial evidence.
+   (a) testimony of the author or signatory;
+   (b) handwriting comparison;
+   (c) circumstantial evidence.
 
 3. Ancient private documents (over 30 years old) found in proper custody are presumed authentic.

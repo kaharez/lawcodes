@@ -19,8 +19,8 @@ status: active
 2. Confessions in criminal cases are admissible if voluntary.
 
 3. A confession is involuntary if:
-   a. obtained by threats, promises, or oppression;
-   b. the accused was denied rights;
-   c. it is otherwise unreliable.
+   (a) obtained by threats, promises, or oppression;
+   (b) the accused was denied rights;
+   (c) it is otherwise unreliable.
 
 4. The prosecution must prove voluntariness beyond reasonable doubt.

@@ -17,8 +17,8 @@ status: active
 1. Communications made in genuine attempt to settle a dispute are privileged.
 
 2. Such communications are inadmissible except:
-   a. by consent;
-   b. to prove settlement agreement;
-   c. to show obstruction of settlement.
+   (a) by consent;
+   (b) to prove settlement agreement;
+   (c) to show obstruction of settlement.
 
 3. This privilege encourages dispute resolution.

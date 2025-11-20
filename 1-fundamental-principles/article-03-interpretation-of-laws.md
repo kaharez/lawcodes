@@ -17,10 +17,10 @@ status: active
 2. Where the language of the law is clear and unambiguous, it must be applied according to its literal meaning. Resort to other methods of interpretation is permitted only where the language is ambiguous or leads to absurd or unjust results.
 
 3. In interpreting laws, preference is to be given to interpretations that:
-    a. give effect to fundamental rights and principles of justice;
-    b. promote legal certainty and consistency;
-    c. respect vested rights and legitimate expectations;
-    d. are compatible with international obligations of the state.
+    (a) give effect to fundamental rights and principles of justice;
+    (b) promote legal certainty and consistency;
+    (c) respect vested rights and legitimate expectations;
+    (d) are compatible with international obligations of the state.
 
 4. Special laws derogate from general laws to the extent of any inconsistency. Later laws prevail over earlier laws.
 

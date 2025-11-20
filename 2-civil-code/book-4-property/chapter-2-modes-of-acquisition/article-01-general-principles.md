@@ -15,12 +15,12 @@ status: active
 # Article 1 – General Principles
 
 1. Ownership of property may be acquired by:
-    a. occupation of things that belong to no one;
-    b. accession, whether natural or artificial;
-    c. prescription, through continuous possession;
-    d. succession, whether testamentary or intestate;
-    e. contract or other juridical acts;
-    f. operation of law.
+    (a) occupation of things that belong to no one;
+    (b) accession, whether natural or artificial;
+    (c) prescription, through continuous possession;
+    (d) succession, whether testamentary or intestate;
+    (e) contract or other juridical acts;
+    (f) operation of law.
 
 2. The acquisition of ownership must be compatible with the laws of the state, public order, and the rights of others.
 

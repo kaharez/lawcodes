@@ -17,15 +17,15 @@ status: active
 1. All property designated as belonging to the state, whether sovereign domain, public domain, or private domain of the State, is vested in the Sovereign personally. The Sovereign holds this property in the Sovereign's capacity as the embodiment and personification of the state, exercising dominion over it for the benefit of the nation and in accordance with the constitutional traditions of Kaharagia.
 
 2. The sovereign domain comprises the inalienable and imprescriptible symbols, prerogatives, titles, and honours vested exclusively in the Sovereign, including:
-    a. the Crown and other sovereign regalia;
-    b. heraldic emblems, the flag, and other symbols of the state;
-    c. the prerogatives of sovereignty, including the power to grant honours, titles, and dignities;
-    d. the archives and official registers of the state.
+    (a) the Crown and other sovereign regalia;
+    (b) heraldic emblems, the flag, and other symbols of the state;
+    (c) the prerogatives of sovereignty, including the power to grant honours, titles, and dignities;
+    (d) the archives and official registers of the state.
 
 3. The public domain comprises property held by the Sovereign for the state and dedicated to public use or service, including:
-    a. public registers and official records;
-    b. property designated by law or decree as serving a public function;
-    c. property acquired by the state for the fulfilment of its sovereign or administrative purposes.
+    (a) public registers and official records;
+    (b) property designated by law or decree as serving a public function;
+    (c) property acquired by the state for the fulfilment of its sovereign or administrative purposes.
 
 4. Property of the public domain is inalienable and imprescriptible while it retains its public character. It may be removed from the public domain only by sovereign decree, upon which it becomes private property of the Sovereign held in the Sovereign's private capacity.
 

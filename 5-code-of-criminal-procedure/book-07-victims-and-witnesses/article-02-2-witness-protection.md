@@ -15,8 +15,8 @@ status: active
 # Article 2 – Witness Protection
 
 1. The court may order protection for witnesses at risk, including:
-   a. anonymity;
-   b. physical protection;
-   c. relocation.
+   (a) anonymity;
+   (b) physical protection;
+   (c) relocation.
 
 2. Such orders balance witness safety with the right to a fair trial.

@@ -17,11 +17,11 @@ status: active
 1. The court shall deliver judgment within a reasonable time after the conclusion of trial.
 
 2. Judgment shall be in writing and shall include:
-   a. findings of fact;
-   b. conclusions of law;
-   c. the order made;
-   d. reasons for the decision;
-   e. orders as to costs.
+   (a) findings of fact;
+   (b) conclusions of law;
+   (c) the order made;
+   (d) reasons for the decision;
+   (e) orders as to costs.
 
 3. Judgment shall be issued in the name of The Sovereign.
 

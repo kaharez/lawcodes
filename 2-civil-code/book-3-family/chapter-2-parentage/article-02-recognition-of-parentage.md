@@ -15,7 +15,7 @@ status: active
 # Article 2 – Recognition of Parentage
 
 1. Parentage of a child born outside marriage may be established:
-    a. by voluntary recognition before the Chancellery; or
-    b. by decree, upon petition and evidence of biological or adoptive parentage.
+    (a) by voluntary recognition before the Chancellery; or
+    (b) by decree, upon petition and evidence of biological or adoptive parentage.
 2. Recognition may be made by one or both parents.
 3. Recognition shall be entered in the civil registers and may be challenged only in accordance with this Code.

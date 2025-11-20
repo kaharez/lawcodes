@@ -15,10 +15,10 @@ status: active
 # Article 8 – Rights of Defense
 
 1. The accused may:
-   a. testify or remain silent;
-   b. call witnesses;
-   c. cross-examine prosecution witnesses;
-   d. present evidence;
-   e. make submissions.
+   (a) testify or remain silent;
+   (b) call witnesses;
+   (c) cross-examine prosecution witnesses;
+   (d) present evidence;
+   (e) make submissions.
 
 2. No adverse inference shall be drawn from silence.

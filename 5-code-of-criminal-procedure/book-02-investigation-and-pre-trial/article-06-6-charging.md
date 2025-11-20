@@ -17,8 +17,8 @@ status: active
 1. Charges shall be laid by the prosecution based on evidence.
 
 2. The charge sheet shall specify:
-   a. the accused person;
-   b. the offence charged;
-   c. the essential facts constituting the offence.
+   (a) the accused person;
+   (b) the offence charged;
+   (c) the essential facts constituting the offence.
 
 3. The accused shall receive a copy of the charge.

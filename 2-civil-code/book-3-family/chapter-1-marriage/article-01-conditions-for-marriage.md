@@ -23,7 +23,7 @@ status: active
 4. Marriage requires the free and mutual consent of both parties, personally expressed before an authorised officiant.
 
 5. Impediments to marriage include:
-    a. an existing marriage or civil union;
-    b. direct lineal kinship between the parties;
-    c. collateral kinship up to and including siblings;
-    d. other impediments established by law or sovereign decree in the interest of morality or public order.
+    (a) an existing marriage or civil union;
+    (b) direct lineal kinship between the parties;
+    (c) collateral kinship up to and including siblings;
+    (d) other impediments established by law or sovereign decree in the interest of morality or public order.

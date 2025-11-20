@@ -17,8 +17,8 @@ status: active
 1. Any person who knowingly makes a false declaration of allegiance to the Sovereign or the State of Kaharagia commits an offence.
 
 2. This includes:
-    a. making a false oath or affirmation of loyalty;
-    b. signing declarations of allegiance without intent to honour them;
-    c. digitally executing loyalty attestations under false identity or coercion.
+    (a) making a false oath or affirmation of loyalty;
+    (b) signing declarations of allegiance without intent to honour them;
+    (c) digitally executing loyalty attestations under false identity or coercion.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the false declaration is part of a broader fraud or security threat.

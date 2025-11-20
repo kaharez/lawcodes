@@ -15,9 +15,9 @@ status: active
 # Article 5 – Detention and Bail
 
 1. A person arrested shall be released unless detention is necessary to:
-   a. ensure appearance at trial;
-   b. prevent further offences;
-   c. prevent interference with justice.
+   (a) ensure appearance at trial;
+   (b) prevent further offences;
+   (c) prevent interference with justice.
 
 2. Detention shall be ordered only after hearing.
 

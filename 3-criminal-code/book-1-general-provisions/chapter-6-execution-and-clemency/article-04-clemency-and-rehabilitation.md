@@ -17,9 +17,9 @@ status: active
 1. The Sovereign may grant pardon, commutation, or remission of penalties in individual cases by virtue of the prerogative of mercy.
 
 2. Clemency may be granted:
-    a. upon petition of the convicted person;
-    b. upon recommendation of the High Court;
-    c. or motu proprio by the Sovereign.
+    (a) upon petition of the convicted person;
+    (b) upon recommendation of the High Court;
+    (c) or motu proprio by the Sovereign.
 
 3. Judicial rehabilitation may be granted by the High Court upon application, where the convicted person has demonstrated lawful conduct and fulfilment of obligations for a period prescribed by procedural law.
 

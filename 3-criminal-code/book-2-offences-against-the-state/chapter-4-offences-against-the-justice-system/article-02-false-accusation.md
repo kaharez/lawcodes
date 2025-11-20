@@ -17,8 +17,8 @@ status: active
 1. Any person who knowingly and maliciously accuses another of an offence they did not commit, or causes or instigates such accusation, commits the offence of false accusation.
 
 2. False accusation includes:
-    a. fabricated allegations submitted to the High Court or State authorities;
-    b. digital impersonation or manipulation intended to incriminate another;
-    c. causing a person to be wrongfully investigated, arrested, or tried.
+    (a) fabricated allegations submitted to the High Court or State authorities;
+    (b) digital impersonation or manipulation intended to incriminate another;
+    (c) causing a person to be wrongfully investigated, arrested, or tried.
 
 3. False accusation is punishable within Penalty Band C, or Penalty Band D where the allegation concerns a serious offence or could have resulted in substantial harm to the accused.

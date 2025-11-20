@@ -23,8 +23,8 @@ status: active
 4. A juridical person acts through its organs, officers, directors, and authorized representatives in accordance with its constitutive documents and the law governing its form. Acts performed by authorized representatives within the scope of their authority bind the juridical person.
 
 5. The capacity of a juridical person is limited by:
-    a. the purposes set forth in its constitutive documents;
-    b. the nature of its legal form and the rules governing that form;
-    c. prohibitions imposed by law or public order.
+    (a) the purposes set forth in its constitutive documents;
+    (b) the nature of its legal form and the rules governing that form;
+    (c) prohibitions imposed by law or public order.
 
 6. Acts performed by a juridical person beyond its purposes or capacity (ultra vires acts) may be challenged by members, directors, or interested third parties, but do not automatically render such acts void as against third parties acting in good faith.

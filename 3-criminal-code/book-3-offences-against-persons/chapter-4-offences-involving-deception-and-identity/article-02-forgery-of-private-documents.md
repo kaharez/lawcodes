@@ -17,8 +17,8 @@ status: active
 1. Any person who forges, alters, or fabricates a private document, or knowingly uses such a forged document, commits an offence.
 
 2. Private documents include:
-    a. contracts, agreements, or financial documents;
-    b. private certificates, letters, or attestations;
-    c. digital files or signatures representing private legal acts.
+    (a) contracts, agreements, or financial documents;
+    (b) private certificates, letters, or attestations;
+    (c) digital files or signatures representing private legal acts.
 
 3. Forgery of private documents is punishable within Penalty Band C, or Penalty Band D where substantial harm, financial loss, or legal prejudice results.

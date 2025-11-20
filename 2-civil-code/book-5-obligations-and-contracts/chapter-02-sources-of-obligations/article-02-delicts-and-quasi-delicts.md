@@ -21,10 +21,10 @@ status: active
 3. Every person is liable for damage caused by their intentional or negligent acts or omissions, except where the act is justified by law, necessity, self-defence, or the exercise of a right.
 
 4. The elements of delictual liability are:
-    a. a wrongful act or omission contrary to law or to the duty of care owed to others;
-    b. fault, consisting of intent, negligence, or recklessness;
-    c. damage or injury suffered by the victim;
-    d. a causal connection between the wrongful act and the damage.
+    (a) a wrongful act or omission contrary to law or to the duty of care owed to others;
+    (b) fault, consisting of intent, negligence, or recklessness;
+    (c) damage or injury suffered by the victim;
+    (d) a causal connection between the wrongful act and the damage.
 
 5. Liability for delict or quasi-delict is personal. Each person is responsible for their own acts and may not be held liable for the acts of others, except as provided by law in cases of vicarious liability.
 

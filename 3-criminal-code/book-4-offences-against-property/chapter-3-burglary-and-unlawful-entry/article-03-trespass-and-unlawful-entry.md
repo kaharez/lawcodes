@@ -17,21 +17,21 @@ status: active
 1. Trespass is the intentional entry upon or remaining in land, premises, or property belonging to another without lawful authority or the consent of the owner or lawful occupier.
 
 2. Trespass includes:
-    a. entering private property, dwellings, or commercial premises without permission;
-    b. remaining on property after permission has been withdrawn or revoked;
-    c. entering property in violation of posted notices, barriers, or security measures;
-    d. squatting or occupying property without legal right; or
-    e. entering restricted areas, secure facilities, or property designated as prohibited to the public.
+    (a) entering private property, dwellings, or commercial premises without permission;
+    (b) remaining on property after permission has been withdrawn or revoked;
+    (c) entering property in violation of posted notices, barriers, or security measures;
+    (d) squatting or occupying property without legal right; or
+    (e) entering restricted areas, secure facilities, or property designated as prohibited to the public.
 
 3. Simple trespass without intent to commit further offences is punished under Penalty Band A.
 
 4. Trespass is punished under Penalty Band B where:
-    a. the trespass is accompanied by damage to property, fences, locks, or security measures;
-    b. the trespass is committed on agricultural land and causes damage to crops or livestock;
-    c. the trespass is persistent or repeated after warnings or prohibition;
-    d. the trespass involves multiple persons or organized squatting;
-    e. the trespass occurs on sensitive or protected premises, including government facilities, critical infrastructure, or protected areas; or
-    f. the trespass causes alarm, distress, or interference with lawful activities.
+    (a) the trespass is accompanied by damage to property, fences, locks, or security measures;
+    (b) the trespass is committed on agricultural land and causes damage to crops or livestock;
+    (c) the trespass is persistent or repeated after warnings or prohibition;
+    (d) the trespass involves multiple persons or organized squatting;
+    (e) the trespass occurs on sensitive or protected premises, including government facilities, critical infrastructure, or protected areas; or
+    (f) the trespass causes alarm, distress, or interference with lawful activities.
 
 5. Where trespass is committed with intent to commit burglary, theft, or other offences, the offence constitutes burglary or attempted burglary under Articles 1 or 2 of this Chapter.
 

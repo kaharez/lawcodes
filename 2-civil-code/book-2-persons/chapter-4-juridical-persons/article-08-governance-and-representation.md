@@ -17,16 +17,16 @@ status: active
 1. A juridical person acts through its organs, officers, directors, and authorized representatives in accordance with its constitutive documents, bylaws, and the law governing its legal form.
 
 2. The principal organs of a juridical person typically include:
-    a. the general assembly or meeting of members or shareholders, which is the supreme decision-making body;
-    b. the board of directors, governing board, or executive committee, which manages the affairs of the juridical person;
-    c. such other organs, officers, or committees as are established by the constitutive documents or bylaws.
+    (a) the general assembly or meeting of members or shareholders, which is the supreme decision-making body;
+    (b) the board of directors, governing board, or executive committee, which manages the affairs of the juridical person;
+    (c) such other organs, officers, or committees as are established by the constitutive documents or bylaws.
 
 3. The board of directors or governing body is responsible for:
-    a. managing the property and affairs of the juridical person;
-    b. implementing the decisions of the general assembly;
-    c. ensuring compliance with the law and the constitutive documents;
-    d. appointing officers and managers;
-    e. preparing financial statements and reports.
+    (a) managing the property and affairs of the juridical person;
+    (b) implementing the decisions of the general assembly;
+    (c) ensuring compliance with the law and the constitutive documents;
+    (d) appointing officers and managers;
+    (e) preparing financial statements and reports.
 
 4. Directors, officers, and managers of a juridical person owe fiduciary duties of loyalty, care, and diligence. They must act in good faith, in the best interests of the juridical person, and in accordance with its purposes. They must avoid conflicts of interest and refrain from using their position for personal gain at the expense of the juridical person.
 

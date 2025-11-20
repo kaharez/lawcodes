@@ -15,12 +15,12 @@ status: active
 # Article 2 – Fundamental Principles
 
 1. Civil proceedings shall be conducted in accordance with the following principles:
-   a. the right to a fair and public hearing;
-   b. equality of arms between parties;
-   c. the right to be heard;
-   d. efficiency and avoidance of undue delay;
-   e. proportionality of procedure to the nature and importance of the case;
-   f. good faith and cooperation of parties.
+   (a) the right to a fair and public hearing;
+   (b) equality of arms between parties;
+   (c) the right to be heard;
+   (d) efficiency and avoidance of undue delay;
+   (e) proportionality of procedure to the nature and importance of the case;
+   (f) good faith and cooperation of parties.
 
 2. The court shall actively manage proceedings to ensure just, efficient, and proportionate resolution of disputes.
 

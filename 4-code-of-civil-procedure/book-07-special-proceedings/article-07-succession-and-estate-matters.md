@@ -17,8 +17,8 @@ status: active
 1. Applications for probate or administration of estates shall be made in accordance with the Civil Code, Book 5.
 
 2. The court shall grant probate upon proof of:
-   a. the testator's death;
-   b. the validity of the will;
-   c. the executor's capacity.
+   (a) the testator's death;
+   (b) the validity of the will;
+   (c) the executor's capacity.
 
 3. Disputed succession matters shall be determined by trial.

@@ -15,9 +15,9 @@ status: active
 # Article 6 – Judicial Notice
 
 1. The court may take judicial notice of:
-   a. laws of Kaharagia;
-   b. facts of common knowledge;
-   c. facts capable of verification from reliable sources.
+   (a) laws of Kaharagia;
+   (b) facts of common knowledge;
+   (c) facts capable of verification from reliable sources.
 
 2. Judicial notice dispenses with proof.
 

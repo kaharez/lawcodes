@@ -19,10 +19,10 @@ status: active
 2. Testaments must comply with the formalities prescribed by law. A testament that does not comply with legal formalities is null and void.
 
 3. The forms of testament recognised by law are:
-    a. holographic testament;
-    b. notarial testament;
-    c. secret testament;
-    d. international testament.
+    (a) holographic testament;
+    (b) notarial testament;
+    (c) secret testament;
+    (d) international testament.
 
 4. A holographic testament is one written entirely in the hand of the testator, dated, and signed. No other formality is required. Holographic testaments must be deposited with a notary or the competent registry for safekeeping.
 
@@ -37,6 +37,6 @@ status: active
 9. A testament may not be made by proxy or through representation. Joint or mutual testaments by two or more persons in the same instrument are prohibited.
 
 10. A testament may be revoked at any time by the testator by:
-    a. executing a new testament expressly revoking the prior testament;
-    b. destroying the testament with the intention to revoke;
-    c. executing a new testament inconsistent with the prior testament, which revokes it to the extent of the inconsistency.
+    (a) executing a new testament expressly revoking the prior testament;
+    (b) destroying the testament with the intention to revoke;
+    (c) executing a new testament inconsistent with the prior testament, which revokes it to the extent of the inconsistency.

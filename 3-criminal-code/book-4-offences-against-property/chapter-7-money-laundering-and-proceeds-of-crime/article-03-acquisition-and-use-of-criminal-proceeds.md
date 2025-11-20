@@ -17,22 +17,22 @@ status: active
 1. It is an offence to acquire, possess, use, or benefit from property knowing or having reasonable grounds to suspect that it constitutes the proceeds of criminal activity.
 
 2. Acquisition and use of criminal proceeds includes:
-    a. acquiring property or assets with knowledge or suspicion of their criminal origin;
-    b. possessing or controlling criminal proceeds;
-    c. using criminal proceeds for purchases, investments, or transactions;
-    d. benefiting from criminal proceeds, including through gifts, inheritance, or other transfers;
-    e. living off or deriving income or benefits from criminal proceeds; or
-    f. accepting payment or compensation in property known or suspected to be criminal proceeds.
+    (a) acquiring property or assets with knowledge or suspicion of their criminal origin;
+    (b) possessing or controlling criminal proceeds;
+    (c) using criminal proceeds for purchases, investments, or transactions;
+    (d) benefiting from criminal proceeds, including through gifts, inheritance, or other transfers;
+    (e) living off or deriving income or benefits from criminal proceeds; or
+    (f) accepting payment or compensation in property known or suspected to be criminal proceeds.
 
 3. Acquisition and use of criminal proceeds is punished under Penalty Band D.
 
 4. The penalty is aggravated to Penalty Band E where:
-    a. the property acquired or used derives from serious predicate offences;
-    b. the amounts or value involved are substantial;
-    c. the acquisition or use is systematic or part of a pattern of conduct;
-    d. the offender occupies a position that facilitated the acquisition or use;
-    e. the offender took active steps to conceal the criminal origin of the property; or
-    f. the offender has previous convictions for money laundering or related offences.
+    (a) the property acquired or used derives from serious predicate offences;
+    (b) the amounts or value involved are substantial;
+    (c) the acquisition or use is systematic or part of a pattern of conduct;
+    (d) the offender occupies a position that facilitated the acquisition or use;
+    (e) the offender took active steps to conceal the criminal origin of the property; or
+    (f) the offender has previous convictions for money laundering or related offences.
 
 5. It is a defence if the accused acquired or used the property for adequate consideration and did not know and had no reasonable grounds to suspect that it constituted criminal proceeds.
 

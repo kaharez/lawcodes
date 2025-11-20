@@ -17,22 +17,22 @@ status: active
 2. Every person has the right to be treated with equal dignity and respect, and to have their human worth recognized regardless of personal characteristics.
 
 3. No person shall be discriminated against on the basis of:
-   a. race, color, ethnicity, or national origin;
-   b. sex, gender, or sexual orientation;
-   c. religion or belief;
-   d. language;
-   e. political or other opinion;
-   f. social origin or economic status;
-   g. disability or health status;
-   h. age;
-   i. or any other status.
+   (a) race, color, ethnicity, or national origin;
+   (b) sex, gender, or sexual orientation;
+   (c) religion or belief;
+   (d) language;
+   (e) political or other opinion;
+   (f) social origin or economic status;
+   (g) disability or health status;
+   (h) age;
+   (i) or any other status.
 
 4. Discrimination means any distinction, exclusion, restriction, or preference based on prohibited grounds that has the purpose or effect of impairing or nullifying the recognition, enjoyment, or exercise of rights on an equal footing.
 
 5. Differential treatment is not discriminatory if it:
-   a. pursues a legitimate aim;
-   b. is objectively and reasonably justified;
-   c. is proportionate to the aim pursued.
+   (a) pursues a legitimate aim;
+   (b) is objectively and reasonably justified;
+   (c) is proportionate to the aim pursued.
 
 6. Special measures designed to accelerate equality for persons or groups disadvantaged by discrimination do not constitute discrimination and are expressly permitted.
 

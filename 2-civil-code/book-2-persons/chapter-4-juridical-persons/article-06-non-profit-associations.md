@@ -19,13 +19,13 @@ status: active
 2. Non-profit associations are prohibited from distributing profits, surplus, or assets to members, directors, or founders during the existence of the association or upon its dissolution, except as reasonable compensation for services rendered or expenses incurred.
 
 3. A non-profit association is formed by the execution of constitutive documents, which shall state:
-    a. the name and domicile of the association;
-    b. the purposes and objects, which must be specific and lawful;
-    c. the conditions and procedures for admission, suspension, and expulsion of members;
-    d. the rights and obligations of members;
-    e. the governance structure, including the general assembly of members and the board of directors or executive committee;
-    f. the procedures for amending the constitutive documents;
-    g. the procedures for dissolution and distribution of assets upon dissolution.
+    (a) the name and domicile of the association;
+    (b) the purposes and objects, which must be specific and lawful;
+    (c) the conditions and procedures for admission, suspension, and expulsion of members;
+    (d) the rights and obligations of members;
+    (e) the governance structure, including the general assembly of members and the board of directors or executive committee;
+    (f) the procedures for amending the constitutive documents;
+    (g) the procedures for dissolution and distribution of assets upon dissolution.
 
 4. The constitutive documents must be registered with the appropriate authority or registry. Upon registration, the association acquires legal personality.
 

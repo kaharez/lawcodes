@@ -17,10 +17,10 @@ status: active
 1. Expert evidence shall generally be presented by written report filed in advance.
 
 2. The report shall state:
-   a. qualifications;
-   b. facts and assumptions;
-   c. methodology;
-   d. opinions and reasoning;
-   e. limitations.
+   (a) qualifications;
+   (b) facts and assumptions;
+   (c) methodology;
+   (d) opinions and reasoning;
+   (e) limitations.
 
 3. Experts may be examined and cross-examined.

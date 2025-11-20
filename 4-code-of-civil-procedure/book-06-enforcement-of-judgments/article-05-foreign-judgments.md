@@ -15,10 +15,10 @@ status: active
 # Article 5 – Foreign Judgments
 
 1. A judgment of a foreign court may be enforced in Kaharagia if:
-   a. the foreign court had jurisdiction;
-   b. the judgment is final;
-   c. it is for a definite sum;
-   d. it was obtained fairly and without fraud;
-   e. enforcement is not contrary to public policy.
+   (a) the foreign court had jurisdiction;
+   (b) the judgment is final;
+   (c) it is for a definite sum;
+   (d) it was obtained fairly and without fraud;
+   (e) enforcement is not contrary to public policy.
 
 2. An application for enforcement shall be made by originating application with supporting evidence.

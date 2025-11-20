@@ -19,10 +19,10 @@ status: active
 2. Homicide is punishable within Penalty Band E.
 
 3. Where the act is committed:
-    a. with premeditation;
-    b. for financial gain;
-    c. against a child or vulnerable person; or
-    d. in the course of another serious offence,
+    (a) with premeditation;
+    (b) for financial gain;
+    (c) against a child or vulnerable person; or
+    (d) in the course of another serious offence,
 	the court shall treat the offence as aggravated.
 
 4. Attempted homicide is punishable within Penalty Band D.

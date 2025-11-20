@@ -27,18 +27,18 @@ status: active
 6. Unjust enrichment occurs when a person is enriched at the expense of another without juridical cause, creating an obligation to restore the benefit to the extent of the enrichment.
 
 7. The elements of unjust enrichment are:
-    a. enrichment of one party;
-    b. impoverishment of another party;
-    c. a causal connection between the enrichment and the impoverishment;
-    d. absence of juridical cause or legal justification for the enrichment.
+    (a) enrichment of one party;
+    (b) impoverishment of another party;
+    (c) a causal connection between the enrichment and the impoverishment;
+    (d) absence of juridical cause or legal justification for the enrichment.
 
 8. The obligation arising from unjust enrichment requires restoration of the benefit received or, if restoration in kind is impossible, payment of its value.
 
 9. The extent of restitution is limited to the lesser of the enrichment of the recipient or the impoverishment of the claimant, and is reduced to the extent that the enrichment no longer subsists at the time of the claim.
 
 10. A claim for unjust enrichment may not be brought where:
-    a. the enrichment is justified by contract, delict, or other source of obligation;
-    b. the impoverished party voluntarily conferred the benefit without expectation of recompense;
-    c. the claim is barred by prescription or another legal defence.
+    (a) the enrichment is justified by contract, delict, or other source of obligation;
+    (b) the impoverished party voluntarily conferred the benefit without expectation of recompense;
+    (c) the claim is barred by prescription or another legal defence.
 
 11. The right to claim restitution for unjust enrichment prescribes after three years from the date the impoverished party became aware or should have become aware of the enrichment and the identity of the enriched party, and in any event after ten years from the enrichment.

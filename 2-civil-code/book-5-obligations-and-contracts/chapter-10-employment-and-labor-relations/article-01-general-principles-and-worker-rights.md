@@ -17,25 +17,25 @@ status: active
 1. Employment is a relationship of economic and social significance involving the exchange of labour for remuneration, subject to protections that recognise the inherent inequality of bargaining power between employers and workers.
 
 2. All workers have fundamental rights that may not be waived or diminished by contract:
-    a. the right to fair wages and equal pay for equal work;
-    b. the right to safe and healthy working conditions;
-    c. the right to reasonable working hours and rest periods;
-    d. the right to protection against unfair dismissal;
-    e. the right to organise, form and join trade unions, and engage in collective bargaining;
-    f. the right to strike and engage in collective action;
-    g. the right to protection against discrimination and harassment;
-    h. the right to dignity and respect in the workplace.
+    (a) the right to fair wages and equal pay for equal work;
+    (b) the right to safe and healthy working conditions;
+    (c) the right to reasonable working hours and rest periods;
+    (d) the right to protection against unfair dismissal;
+    (e) the right to organise, form and join trade unions, and engage in collective bargaining;
+    (f) the right to strike and engage in collective action;
+    (g) the right to protection against discrimination and harassment;
+    (h) the right to dignity and respect in the workplace.
 
 3. Employment contracts and workplace rules that violate worker rights or circumvent labour protections are null and void to the extent of the violation.
 
 4. Employment relationships are presumed to exist where a person performs work under the direction and control of another for remuneration, regardless of the label given to the relationship. Misclassification of employees as independent contractors to avoid labour protections is prohibited.
 
 5. Workers have the right to:
-    a. a written employment contract specifying terms and conditions of employment;
-    b. advance notice of changes to terms and conditions, with right to refuse unreasonable changes;
-    c. privacy and protection of personal data;
-    d. access to personnel files and records;
-    e. fair and transparent procedures for discipline and grievances.
+    (a) a written employment contract specifying terms and conditions of employment;
+    (b) advance notice of changes to terms and conditions, with right to refuse unreasonable changes;
+    (c) privacy and protection of personal data;
+    (d) access to personnel files and records;
+    (e) fair and transparent procedures for discipline and grievances.
 
 6. Discrimination in employment on grounds of race, ethnicity, religion, gender, sexual orientation, age, disability, political opinion, union membership, or social origin is strictly prohibited at all stages of employment, from recruitment to termination.
 

@@ -15,11 +15,11 @@ status: active
 # Article 1 – Enforcement Procedures
 
 1. A judgment creditor may enforce a judgment by:
-   a. seizure and sale of property (execution);
-   b. garnishment of debts owed to the debtor;
-   c. charging orders on property;
-   d. appointment of a receiver;
-   e. committal for contempt in cases of willful non-compliance.
+   (a) seizure and sale of property (execution);
+   (b) garnishment of debts owed to the debtor;
+   (c) charging orders on property;
+   (d) appointment of a receiver;
+   (e) committal for contempt in cases of willful non-compliance.
 
 2. Enforcement may proceed once the time for appeal has expired or an appeal has been determined.
 

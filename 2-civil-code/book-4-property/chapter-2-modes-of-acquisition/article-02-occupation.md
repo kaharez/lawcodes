@@ -17,10 +17,10 @@ status: active
 1. Occupation is the acquisition of ownership of corporeal movable things that have no owner, by taking possession of them with the intention to acquire ownership.
 
 2. Things capable of occupation include:
-    a. wild animals in their natural state;
-    b. abandoned movable property;
-    c. treasure found in one's own property or, with permission, in the property of another;
-    d. other things declared capable of occupation by law.
+    (a) wild animals in their natural state;
+    (b) abandoned movable property;
+    (c) treasure found in one's own property or, with permission, in the property of another;
+    (d) other things declared capable of occupation by law.
 
 3. Things forming part of the sovereign or public domain of the state may not be acquired by occupation.
 

@@ -17,10 +17,10 @@ status: active
 1. Any person who intentionally makes a false accusation or statement that harms the honour, reputation, or dignity of another commits the offence of defamation.
 
 2. Defamation includes:
-    a. false statements presented as fact;
-    b. dissemination of fabricated allegations;
-    c. publication of statements intended to injure reputation;
-    d. digital dissemination or amplification of defamatory content.
+    (a) false statements presented as fact;
+    (b) dissemination of fabricated allegations;
+    (c) publication of statements intended to injure reputation;
+    (d) digital dissemination or amplification of defamatory content.
 
 3. Defamation is punishable within Penalty Band B, or Penalty Band C where the act is aggravated by malice, wide dissemination, or targeting of a child or vulnerable person.
 

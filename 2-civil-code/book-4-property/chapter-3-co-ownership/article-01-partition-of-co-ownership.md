@@ -15,13 +15,13 @@ status: active
 # Article 1 – Partition of Co-ownership
 
 1. No co-owner may be compelled to remain in co-ownership. Any co-owner may at any time demand partition of the property, unless:
-    a. partition has been excluded by agreement for a specified period not exceeding ten years, renewable by further agreement;
-    b. partition is prohibited by law or the nature of the property;
-    c. the property is indivisible by its nature or destination, and partition would render it unfit for its intended use.
+    (a) partition has been excluded by agreement for a specified period not exceeding ten years, renewable by further agreement;
+    (b) partition is prohibited by law or the nature of the property;
+    (c) the property is indivisible by its nature or destination, and partition would render it unfit for its intended use.
 
 2. Partition may be effected:
-    a. by agreement among all co-owners;
-    b. by judicial decree, upon petition of one or more co-owners.
+    (a) by agreement among all co-owners;
+    (b) by judicial decree, upon petition of one or more co-owners.
 
 3. Where partition in kind is possible without diminishing the value of the property or prejudicing the rights of co-owners, the property shall be divided into portions corresponding to the shares of each co-owner.
 

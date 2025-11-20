@@ -15,10 +15,10 @@ status: active
 # Article 5 – Ancillary Orders
 
 1. The court may make ancillary orders including:
-   a. restitution to victims;
-   b. compensation;
-   c. forfeiture of property;
-   d. prohibition orders;
-   e. treatment orders.
+   (a) restitution to victims;
+   (b) compensation;
+   (c) forfeiture of property;
+   (d) prohibition orders;
+   (e) treatment orders.
 
 2. Orders shall be enforceable.

@@ -15,10 +15,10 @@ status: active
 # Article 5 – Deprivation of Nationality
 
 1. A national may be deprived of Kaharagian nationality by sovereign decree where they have:
-    a. obtained nationality through fraud, false statements, or concealment of material facts;
-    b. committed treason, rebellion, or taken up arms against the Sovereign or the state;
-    c. rendered aid or service to a foreign power or organisation hostile to the Sovereign or the state;
-    d. engaged in acts gravely incompatible with allegiance to the state, as determined by decree.
+    (a) obtained nationality through fraud, false statements, or concealment of material facts;
+    (b) committed treason, rebellion, or taken up arms against the Sovereign or the state;
+    (c) rendered aid or service to a foreign power or organisation hostile to the Sovereign or the state;
+    (d) engaged in acts gravely incompatible with allegiance to the state, as determined by decree.
 
 2. Deprivation shall not be pronounced if it would render the person stateless, except where nationality was obtained fraudulently or where expressly authorised by sovereign decree for reasons of state security.
 

@@ -17,8 +17,8 @@ status: active
 1. Any person who intentionally promotes hatred, hostility, or discrimination against individuals or groups based on nationality, identity, gender, faith, or lawful association commits an offence.
 
 2. This offence includes:
-    a. dissemination of hate speech;
-    b. promotion of discriminatory campaigns;
-    c. digital mobilisation designed to stigmatise or exclude persons or communities.
+    (a) dissemination of hate speech;
+    (b) promotion of discriminatory campaigns;
+    (c) digital mobilisation designed to stigmatise or exclude persons or communities.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the act endangers public peace, personal safety, or the dignity of the community.

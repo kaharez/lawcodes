@@ -17,9 +17,9 @@ status: active
 1. Reparation for damage must, so far as possible, restore the victim to the situation that would have existed had the damage not occurred.
 
 2. Reparation may take the form of:
-    a. restoration in kind, by repairing or replacing the damaged thing;
-    b. compensation in money, where restoration in kind is impossible, insufficient, or excessively burdensome;
-    c. other forms of reparation appropriate to the nature of the damage.
+    (a) restoration in kind, by repairing or replacing the damaged thing;
+    (b) compensation in money, where restoration in kind is impossible, insufficient, or excessively burdensome;
+    (c) other forms of reparation appropriate to the nature of the damage.
 
 3. Material damage includes both actual loss suffered (damnum emergens) and gain of which the victim was deprived (lucrum cessans), to the extent that they are certain and flow directly from the wrongful act.
 

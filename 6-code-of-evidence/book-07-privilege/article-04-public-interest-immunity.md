@@ -15,10 +15,10 @@ status: active
 # Article 4 – Public Interest Immunity
 
 1. The State may claim privilege for documents whose disclosure would harm:
-   a. national security;
-   b. international relations;
-   c. the administration of justice;
-   d. other significant public interests.
+   (a) national security;
+   (b) international relations;
+   (c) the administration of justice;
+   (d) other significant public interests.
 
 2. The court shall balance the public interest in non-disclosure against the interests of justice.
 

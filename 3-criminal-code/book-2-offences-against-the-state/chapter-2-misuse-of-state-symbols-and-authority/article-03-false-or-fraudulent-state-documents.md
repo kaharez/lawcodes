@@ -17,10 +17,10 @@ status: active
 1. Any person who forges, alters, or knowingly uses a forged or altered State document commits an offence.
 
 2. For the purposes of this Article, “State document” includes:
-    a. official certificates, identity documents, or registry extracts;
-    b. State-issued letters, notices, or communications;
-    c. digital credentials, cryptographic signatures, or authentication tokens issued by the State;
-    d. any act or instrument bearing the Seal or insignia of the State.
+    (a) official certificates, identity documents, or registry extracts;
+    (b) State-issued letters, notices, or communications;
+    (c) digital credentials, cryptographic signatures, or authentication tokens issued by the State;
+    (d) any act or instrument bearing the Seal or insignia of the State.
 
 3. This offence is punishable within Penalty Band D, or Penalty Band E where the act facilitates another serious offence or endangers the security of State systems.
 

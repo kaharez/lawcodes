@@ -17,9 +17,9 @@ status: active
 1. A legacy is a testamentary disposition granting property or a right to a legatee.
 
 2. Legacies may be:
-    a. universal, granting the entire estate or a fraction thereof;
-    b. of a quota, granting a specified portion of the estate;
-    c. particular, granting a specific item of property or a right.
+    (a) universal, granting the entire estate or a fraction thereof;
+    (b) of a quota, granting a specified portion of the estate;
+    (c) particular, granting a specific item of property or a right.
 
 3. A universal legatee succeeds to the entire estate not otherwise disposed of and is liable for all debts and obligations of the deceased, without limit.
 
@@ -38,8 +38,8 @@ status: active
 10. Where multiple legacies exceed the disponible portion of the estate or the value of the assets, legacies are reduced proportionately, except that particular legacies designated as preferred by the testator are satisfied before others.
 
 11. A legacy lapses and becomes void if:
-    a. the legatee predeceases the testator or is unworthy to succeed;
-    b. the legatee renounces the legacy;
-    c. the condition upon which the legacy depends fails definitively.
+    (a) the legatee predeceases the testator or is unworthy to succeed;
+    (b) the legatee renounces the legacy;
+    (c) the condition upon which the legacy depends fails definitively.
 
 12. Where a legacy to a descendant lapses, the descendants of the legatee may succeed by representation, unless the testament provides otherwise.

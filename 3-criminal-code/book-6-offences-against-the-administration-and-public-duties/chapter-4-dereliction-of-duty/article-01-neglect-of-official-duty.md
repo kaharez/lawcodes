@@ -17,23 +17,23 @@ status: active
 1. Neglect of official duty is the culpable failure by a public official to perform duties required by law, regulation, or the nature of their office, where such failure causes or creates risk of harm to the public interest, public safety, or the rights of individuals.
 
 2. Neglect of official duty includes:
-    a. failing to perform mandatory legal or official duties;
-    b. gross negligence in the performance of official responsibilities;
-    c. abandoning office or duties without lawful justification;
-    d. failing to act to prevent harm or danger where the official has a duty to act;
-    e. failing to report or investigate serious offences or misconduct;
-    f. failing to enforce laws or regulations that the official is charged with enforcing; or
-    g. any other culpable failure to discharge official responsibilities.
+    (a) failing to perform mandatory legal or official duties;
+    (b) gross negligence in the performance of official responsibilities;
+    (c) abandoning office or duties without lawful justification;
+    (d) failing to act to prevent harm or danger where the official has a duty to act;
+    (e) failing to report or investigate serious offences or misconduct;
+    (f) failing to enforce laws or regulations that the official is charged with enforcing; or
+    (g) any other culpable failure to discharge official responsibilities.
 
 3. Neglect of official duty is punished under Penalty Band C.
 
 4. The penalty is aggravated to Penalty Band D where:
-    a. the neglect results in death, serious injury, or significant harm;
-    b. the neglect concerns duties of significant public importance, including public safety, health, or protection of vulnerable persons;
-    c. the neglect is deliberate or prolonged;
-    d. the official holds a position of senior responsibility;
-    e. the neglect facilitates or enables other crimes; or
-    f. the offender has previous disciplinary or criminal findings for neglect of duty.
+    (a) the neglect results in death, serious injury, or significant harm;
+    (b) the neglect concerns duties of significant public importance, including public safety, health, or protection of vulnerable persons;
+    (c) the neglect is deliberate or prolonged;
+    (d) the official holds a position of senior responsibility;
+    (e) the neglect facilitates or enables other crimes; or
+    (f) the offender has previous disciplinary or criminal findings for neglect of duty.
 
 5. The court may order removal from office and disqualification from holding public positions.
 

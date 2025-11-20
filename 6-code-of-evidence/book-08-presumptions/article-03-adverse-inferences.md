@@ -15,9 +15,9 @@ status: active
 # Article 3 – Adverse Inferences
 
 1. The court may draw adverse inferences from:
-   a. failure to call material witnesses;
-   b. destruction or concealment of evidence;
-   c. failure to produce documents.
+   (a) failure to call material witnesses;
+   (b) destruction or concealment of evidence;
+   (c) failure to produce documents.
 
 2. In criminal cases, no adverse inference shall be drawn from the accused's silence.
 

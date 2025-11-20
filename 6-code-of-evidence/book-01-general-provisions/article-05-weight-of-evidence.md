@@ -17,9 +17,9 @@ status: active
 1. The court shall assess the weight and credibility of all evidence.
 
 2. Factors affecting weight include:
-   a. reliability of the source;
-   b. consistency with other evidence;
-   c. demeanor of witnesses;
-   d. inherent probability.
+   (a) reliability of the source;
+   (b) consistency with other evidence;
+   (c) demeanor of witnesses;
+   (d) inherent probability.
 
 3. The court is not bound by the weight assigned by parties.

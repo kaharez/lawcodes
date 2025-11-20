@@ -17,8 +17,8 @@ status: active
 1. Prior consistent statements are generally inadmissible.
 
 2. Exceptions include:
-   a. recent complaint in sexual offence cases;
-   b. statements negating fabrication or recent invention;
-   c. statements admissible under other rules.
+   (a) recent complaint in sexual offence cases;
+   (b) statements negating fabrication or recent invention;
+   (c) statements admissible under other rules.
 
 3. Prior inconsistent statements may be used to impeach credibility and may be admitted for truth in specified circumstances.

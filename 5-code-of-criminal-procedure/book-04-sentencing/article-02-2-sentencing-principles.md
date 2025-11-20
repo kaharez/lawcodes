@@ -15,15 +15,15 @@ status: active
 # Article 2 – Sentencing Principles
 
 1. Sentences shall be:
-   a. proportionate to the gravity of the offence and culpability;
-   b. consistent with similar cases;
-   c. individualized to the offender's circumstances.
+   (a) proportionate to the gravity of the offence and culpability;
+   (b) consistent with similar cases;
+   (c) individualized to the offender's circumstances.
 
 2. Purposes of sentencing include:
-   a. denunciation of criminal conduct;
-   b. deterrence;
-   c. protection of the public;
-   d. rehabilitation;
-   e. reparation to victims.
+   (a) denunciation of criminal conduct;
+   (b) deterrence;
+   (c) protection of the public;
+   (d) rehabilitation;
+   (e) reparation to victims.
 
 3. Imprisonment is a last resort; alternatives shall be considered.

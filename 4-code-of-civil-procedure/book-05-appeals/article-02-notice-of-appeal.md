@@ -17,8 +17,8 @@ status: active
 1. Notice of appeal shall be filed within 30 days of the judgment or order appealed from.
 
 2. The notice shall specify:
-   a. the judgment or order appealed from;
-   b. the grounds of appeal;
-   c. the relief sought.
+   (a) the judgment or order appealed from;
+   (b) the grounds of appeal;
+   (c) the relief sought.
 
 3. The notice shall be served on all parties.

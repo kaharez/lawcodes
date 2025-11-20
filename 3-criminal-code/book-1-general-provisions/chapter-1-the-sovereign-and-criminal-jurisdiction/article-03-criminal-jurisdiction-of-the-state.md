@@ -15,10 +15,10 @@ status: active
 # Article 3 – Criminal Jurisdiction of the State
 
 1. This Code applies to:
-    a. Kaharagian nationals and Verified Kaharagians, wherever situated;
-    b. persons acting under the authority, commission, or contract of the State of Kaharagia;
-    c. acts committed against the institutions, officials, data systems, registers, or other legal interests of the State; and
-    d. offences for which the State may exercise universal jurisdiction under international law.
+    (a) Kaharagian nationals and Verified Kaharagians, wherever situated;
+    (b) persons acting under the authority, commission, or contract of the State of Kaharagia;
+    (c) acts committed against the institutions, officials, data systems, registers, or other legal interests of the State; and
+    (d) offences for which the State may exercise universal jurisdiction under international law.
 
 2. Criminal jurisdiction may be exercised whether the act occurred physically, digitally, or through automated or remote means.
 

@@ -23,17 +23,17 @@ status: active
 4. The place of opening of succession is the last domicile of the deceased or, if the deceased had no domicile in the state, the place where the majority of their property is located.
 
 5. Succession devolves:
-    a. by testament, according to the will of the deceased;
-    b. by operation of law, in the absence of a valid testament or insofar as the testament does not dispose of the entire estate.
+    (a) by testament, according to the will of the deceased;
+    (b) by operation of law, in the absence of a valid testament or insofar as the testament does not dispose of the entire estate.
 
 6. Persons capable of succeeding include natural persons living at the time of the opening of succession and children conceived but not yet born, provided they are subsequently born alive.
 
 7. Juridical persons may succeed by testament if they exist at the time of the opening of succession or are constituted pursuant to the testament.
 
 8. The following are unworthy to succeed and are excluded from succession:
-    a. persons convicted of intentionally causing or attempting to cause the death of the deceased;
-    b. persons who by fraud, duress, or violence prevented the deceased from making, revoking, or modifying their testament;
-    c. persons who concealed, destroyed, or falsified the testament of the deceased.
+    (a) persons convicted of intentionally causing or attempting to cause the death of the deceased;
+    (b) persons who by fraud, duress, or violence prevented the deceased from making, revoking, or modifying their testament;
+    (c) persons who concealed, destroyed, or falsified the testament of the deceased.
 
 9. Unworthiness does not affect the rights of descendants of the unworthy person, who succeed in their own right by representation.
 

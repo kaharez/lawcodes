@@ -17,8 +17,8 @@ status: active
 1. A writ of execution may be issued directing the seizure and sale of the debtor's movable and immovable property.
 
 2. Certain property is exempt from execution, including:
-   a. necessary personal effects;
-   b. tools of trade up to a prescribed value;
-   c. social security benefits.
+   (a) necessary personal effects;
+   (b) tools of trade up to a prescribed value;
+   (c) social security benefits.
 
 3. Execution shall be carried out by court officers or bailiffs.

@@ -17,9 +17,9 @@ status: active
 1. Sabotage is committed where a person intentionally damages, disrupts, or disables State property, systems, digital infrastructure, or operations in a manner that endangers public order or national security.
 
 2. Sabotage includes:
-    a. interference with communication systems, identity registers, or digital verification services;
-    b. destruction or manipulation of State archives, legal records, or administrative data;
-    c. actions designed to undermine the functioning of the High Court, State offices, or official portals.
+    (a) interference with communication systems, identity registers, or digital verification services;
+    (b) destruction or manipulation of State archives, legal records, or administrative data;
+    (c) actions designed to undermine the functioning of the High Court, State offices, or official portals.
 
 3. Sabotage is punishable within Penalty Band D, or Band E where the act causes serious harm or poses a grave threat to the State.
 

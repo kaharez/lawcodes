@@ -15,9 +15,9 @@ status: active
 # Article 5 – Challenges to Expert Evidence
 
 1. Expert evidence may be challenged on grounds of:
-   a. lack of qualification;
-   b. unreliable methodology;
-   c. bias;
-   d. insufficient factual basis.
+   (a) lack of qualification;
+   (b) unreliable methodology;
+   (c) bias;
+   (d) insufficient factual basis.
 
 2. The court acts as gatekeeper to exclude unreliable expert evidence.

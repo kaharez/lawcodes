@@ -17,8 +17,8 @@ status: active
 1. Witnesses are examined orally in court except as otherwise permitted.
 
 2. Examination proceeds by:
-   a. examination-in-chief;
-   b. cross-examination;
-   c. re-examination.
+   (a) examination-in-chief;
+   (b) cross-examination;
+   (c) re-examination.
 
 3. Leading questions are generally not permitted in examination-in-chief but are allowed in cross-examination.
