@@ -1,7 +1,7 @@
 site_name: Law Codes
 site_description: "Compilation of the Kaharagian legal code in Markdown, published as documentation."
 site_url: "https://<org>.github.io/lawcodes"
-docs_dir: lawcodes/
+docs_dir: .
 theme:
   name: readthedocs
   navigation_depth: 4
@@ -10,6 +10,5 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
-      1. Findamental Principles: 1-fundamental-principle
 plugins:
   - search
