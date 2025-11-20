@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally deceives another through false statements, misrepresentations, or concealment for the purpose of gaining advantage or causing harm commits an offence.
 
 2. Deceptive practices include:
-    a. deliberate misrepresentation of identity or qualifications;
-    b. fraudulent schemes using digital platforms;
-    c. manipulation of personal information to deceive others;
-    d. impersonation during interviews, applications, or verifications.
+    (a) deliberate misrepresentation of identity or qualifications;
+    (b) fraudulent schemes using digital platforms;
+    (c) manipulation of personal information to deceive others;
+    (d) impersonation during interviews, applications, or verifications.
 
 3. This offence is punishable within Penalty Band B, or Penalty Band C where carried out systematically or through organised deception.

@@ -17,10 +17,10 @@ status: active
 1. High treason is committed by any person who intentionally undertakes an act that gravely threatens the existence, independence, or sovereign authority of the State of Kaharagia.
 
 2. High treason includes:
-    a. attempting to overthrow or unlawfully diminish the authority of The Sovereign;
-    b. usurping, impersonating, or unlawfully exercising Sovereign functions or State authority;
-    c. seeking foreign intervention, coercion, or domination over the State;
-    d. delivering, transmitting, or exposing sensitive State information in a manner that imperils security or sovereignty.
+    (a) attempting to overthrow or unlawfully diminish the authority of The Sovereign;
+    (b) usurping, impersonating, or unlawfully exercising Sovereign functions or State authority;
+    (c) seeking foreign intervention, coercion, or domination over the State;
+    (d) delivering, transmitting, or exposing sensitive State information in a manner that imperils security or sovereignty.
 
 3. High treason shall be punishable within Penalty Band E, together with mandatory disqualification from honours, commissions, and public office.
 

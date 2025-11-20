@@ -17,9 +17,9 @@ status: active
 1. Where multiple persons have claims arising from substantially the same facts, one or more may bring a representative action on behalf of all.
 
 2. The court must certify the class action, having regard to:
-   a. common questions of law or fact;
-   b. the adequacy of representation;
-   c. whether a class action is the preferable procedure.
+   (a) common questions of law or fact;
+   (b) the adequacy of representation;
+   (c) whether a class action is the preferable procedure.
 
 3. Notice of the class action shall be given to all class members.
 

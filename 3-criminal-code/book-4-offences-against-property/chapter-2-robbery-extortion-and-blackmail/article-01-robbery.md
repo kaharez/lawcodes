@@ -21,14 +21,14 @@ status: active
 3. Robbery is punished under Penalty Band E.
 
 4. The penalty is aggravated where:
-    a. the robbery is committed by two or more persons acting in concert;
-    b. the robbery involves use of a weapon or dangerous instrument;
-    c. the robbery results in serious injury to any person;
-    d. the victim is a child, elderly person, or particularly vulnerable person;
-    e. the robbery occurs in a dwelling or place of residence;
-    f. the robbery is committed against a person performing public duties or providing public services;
-    g. the robbery involves substantial value or property of particular importance; or
-    h. the offender has previous convictions for robbery or violent offences.
+    (a) the robbery is committed by two or more persons acting in concert;
+    (b) the robbery involves use of a weapon or dangerous instrument;
+    (c) the robbery results in serious injury to any person;
+    (d) the victim is a child, elderly person, or particularly vulnerable person;
+    (e) the robbery occurs in a dwelling or place of residence;
+    (f) the robbery is committed against a person performing public duties or providing public services;
+    (g) the robbery involves substantial value or property of particular importance; or
+    (h) the offender has previous convictions for robbery or violent offences.
 
 5. Attempted robbery is punished under Penalty Band D.
 

@@ -17,9 +17,9 @@ status: active
 1. Every contract must have an object consisting of the performance or forbearance to which the parties are bound.
 
 2. The object of a contract must be:
-    a. possible, both physically and legally;
-    b. lawful, not contrary to law, public order, or morals;
-    c. sufficiently determined or determinable by the terms of the contract or by reference to external criteria.
+    (a) possible, both physically and legally;
+    (b) lawful, not contrary to law, public order, or morals;
+    (c) sufficiently determined or determinable by the terms of the contract or by reference to external criteria.
 
 3. A contract whose object is impossible, unlawful, or indeterminate is null and void.
 
@@ -28,9 +28,9 @@ status: active
 5. Every contract must have a cause, being the immediate purpose or juridical reason for which the obligation is undertaken.
 
 6. The cause must be:
-    a. real, actually existing and not simulated;
-    b. lawful, not contrary to law, public order, or morals;
-    c. adequate to justify the obligation.
+    (a) real, actually existing and not simulated;
+    (b) lawful, not contrary to law, public order, or morals;
+    (c) adequate to justify the obligation.
 
 7. A contract lacking cause, or whose cause is unlawful or contrary to public order, is null and void.
 

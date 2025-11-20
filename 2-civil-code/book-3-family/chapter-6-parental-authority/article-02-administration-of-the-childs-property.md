@@ -23,9 +23,9 @@ status: active
 4. Parents are entitled to the usufruct of the child's property, meaning they may use the property and receive its fruits and income, provided they apply the income first to the maintenance and education of the child.
 
 5. The usufruct of parents does not extend to:
-    a. property acquired by the child through their own work or profession;
-    b. property left or given to the child with the express exclusion of parental usufruct;
-    c. property acquired by the child through inheritance when the parents are excluded or unworthy to inherit.
+    (a) property acquired by the child through their own work or profession;
+    (b) property left or given to the child with the express exclusion of parental usufruct;
+    (c) property acquired by the child through inheritance when the parents are excluded or unworthy to inherit.
 
 6. Parents must maintain accounts of their administration and must render accounts to the child upon termination of parental authority or at the request of the competent authority.
 

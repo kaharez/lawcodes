@@ -17,7 +17,7 @@ status: active
 1. The accused shall be asked to plead guilty or not guilty.
 
 2. A guilty plea shall be accepted only if:
-   a. made voluntarily and with understanding;
-   b. the factual basis is established.
+   (a) made voluntarily and with understanding;
+   (b) the factual basis is established.
 
 3. If the accused refuses to plead, a not guilty plea is entered.

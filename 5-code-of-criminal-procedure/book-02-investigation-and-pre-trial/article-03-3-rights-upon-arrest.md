@@ -17,8 +17,8 @@ status: active
 1. An arrested person shall be brought before a judge within 48 hours.
 
 2. The person has the right to:
-   a. contact family or legal representative;
-   b. medical attention if needed;
-   c. humane treatment.
+   (a) contact family or legal representative;
+   (b) medical attention if needed;
+   (c) humane treatment.
 
 3. Detained persons shall not be subjected to torture or degrading treatment.

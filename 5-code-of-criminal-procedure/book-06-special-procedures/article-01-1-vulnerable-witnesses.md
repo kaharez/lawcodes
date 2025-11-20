@@ -15,9 +15,9 @@ status: active
 # Article 1 – Vulnerable Witnesses
 
 1. Special measures may be ordered for vulnerable witnesses including:
-   a. screens to shield from the accused;
-   b. video link testimony;
-   c. clearing the court;
-   d. appointment of support persons.
+   (a) screens to shield from the accused;
+   (b) video link testimony;
+   (c) clearing the court;
+   (d) appointment of support persons.
 
 2. Children and victims of sexual or violent offences are presumed vulnerable.

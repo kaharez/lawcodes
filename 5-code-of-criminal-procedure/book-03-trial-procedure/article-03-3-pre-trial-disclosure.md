@@ -15,8 +15,8 @@ status: active
 # Article 3 – Pre-Trial Disclosure
 
 1. The prosecution shall disclose to the defense:
-   a. all evidence it intends to rely upon;
-   b. any evidence favorable to the accused;
-   c. witness statements.
+   (a) all evidence it intends to rely upon;
+   (b) any evidence favorable to the accused;
+   (c) witness statements.
 
 2. Failure to disclose may result in exclusion of evidence or other remedies.

@@ -19,15 +19,15 @@ status: active
 2. Forced heirs are descendants, the surviving spouse or registered partner, and, in the absence of descendants and spouse, ascendants, who are entitled to a reserved portion of the estate that may not be disposed of by testament.
 
 3. The reserved portion is:
-    a. three-quarters of the estate where the deceased is survived by one child or descendant of a deceased child;
-    b. four-fifths of the estate where the deceased is survived by two or more children or descendants;
-    c. one-half of the estate where the deceased is survived by a spouse or registered partner but no descendants;
-    d. one-third of the estate where the deceased is survived by ascendants but no descendants or spouse.
+    (a) three-quarters of the estate where the deceased is survived by one child or descendant of a deceased child;
+    (b) four-fifths of the estate where the deceased is survived by two or more children or descendants;
+    (c) one-half of the estate where the deceased is survived by a spouse or registered partner but no descendants;
+    (d) one-third of the estate where the deceased is survived by ascendants but no descendants or spouse.
 
 4. Where the deceased is survived by both descendants and a spouse or registered partner:
-    a. the spouse is entitled to one-quarter of the estate as their reserved portion;
-    b. the descendants share the remaining reserved portion (one-half if one child, seven-twelfths if multiple children);
-    c. this allocation ensures that the total reserved portion is three-quarters or four-fifths of the estate.
+    (a) the spouse is entitled to one-quarter of the estate as their reserved portion;
+    (b) the descendants share the remaining reserved portion (one-half if one child, seven-twelfths if multiple children);
+    (c) this allocation ensures that the total reserved portion is three-quarters or four-fifths of the estate.
 
 5. The surviving spouse's reserved portion may not be reduced or eliminated by the deceased, except in cases of divorce proceedings pending at the time of death or where the spouse has been declared unworthy to succeed.
 

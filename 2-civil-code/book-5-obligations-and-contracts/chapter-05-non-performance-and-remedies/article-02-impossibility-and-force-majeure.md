@@ -25,14 +25,14 @@ status: active
 5. Force majeure is an unforeseeable and irresistible event that prevents performance and excuses the debtor from liability. Events of force majeure include natural disasters, war, governmental acts, and other exceptional circumstances beyond the control of the parties.
 
 6. The debtor claiming force majeure has the burden of proving:
-    a. the occurrence of an event beyond their control;
-    b. that the event was unforeseeable at the time of the conclusion of the contract;
-    c. that the event made performance impossible and could not be avoided or overcome by reasonable efforts.
+    (a) the occurrence of an event beyond their control;
+    (b) that the event was unforeseeable at the time of the conclusion of the contract;
+    (c) that the event made performance impossible and could not be avoided or overcome by reasonable efforts.
 
 7. Force majeure does not excuse non-performance if:
-    a. the debtor was already in breach at the time of the event;
-    b. the debtor expressly assumed the risk of the event;
-    c. the event was caused or contributed to by the fault of the debtor.
+    (a) the debtor was already in breach at the time of the event;
+    (b) the debtor expressly assumed the risk of the event;
+    (c) the event was caused or contributed to by the fault of the debtor.
 
 8. Upon impossibility or force majeure, the obligation is extinguished without liability, and any counter-performance is correspondingly extinguished. The parties must restore any performances already rendered, subject to equitable adjustment.
 

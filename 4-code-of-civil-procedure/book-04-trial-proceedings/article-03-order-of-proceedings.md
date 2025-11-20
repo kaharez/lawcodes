@@ -15,11 +15,11 @@ status: active
 # Article 3 – Order of Proceedings
 
 1. The trial shall proceed in the following order:
-   a. opening statements;
-   b. claimant's evidence;
-   c. defendant's evidence;
-   d. rebuttal evidence (if permitted);
-   e. closing submissions;
-   f. judgment.
+   (a) opening statements;
+   (b) claimant's evidence;
+   (c) defendant's evidence;
+   (d) rebuttal evidence (if permitted);
+   (e) closing submissions;
+   (f) judgment.
 
 2. The court may modify the order of proceedings in the interests of justice.

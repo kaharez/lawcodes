@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally misuses Kaharagian nationality or Verified Status commits an offence.
 
 2. Misuse includes:
-    a. asserting nationality for unlawful purposes;
-    b. falsely representing another person as Kaharagian;
-    c. using nationality to shield unlawful acts or mislead foreign authorities;
-    d. presenting forged or manipulated nationality evidence.
+    (a) asserting nationality for unlawful purposes;
+    (b) falsely representing another person as Kaharagian;
+    (c) using nationality to shield unlawful acts or mislead foreign authorities;
+    (d) presenting forged or manipulated nationality evidence.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the act involves fraud, coercion, or intent to deceive State or foreign authorities.

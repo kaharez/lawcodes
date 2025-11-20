@@ -15,11 +15,11 @@ status: active
 # Article 5 – Extinction of Penalties
 
 1. Penalties shall be extinguished by:
-    a. death of the convicted person;
-    b. expiration of statutory limitation;
-    c. full execution of the penalty;
-    d. pardon or commutation granted by the Sovereign;
-    e. judicial rehabilitation.
+    (a) death of the convicted person;
+    (b) expiration of statutory limitation;
+    (c) full execution of the penalty;
+    (d) pardon or commutation granted by the Sovereign;
+    (e) judicial rehabilitation.
 
 2. The High Court shall determine the effects of extinction upon accessory penalties and collateral consequences.
 

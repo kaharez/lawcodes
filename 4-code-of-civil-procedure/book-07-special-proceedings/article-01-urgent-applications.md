@@ -17,9 +17,9 @@ status: active
 1. A party may apply for urgent relief before or during proceedings.
 
 2. Urgent applications may be made ex parte (without notice) where:
-   a. there is insufficient time to give notice;
-   b. giving notice would defeat the purpose of the order;
-   c. the matter is of extreme urgency.
+   (a) there is insufficient time to give notice;
+   (b) giving notice would defeat the purpose of the order;
+   (c) the matter is of extreme urgency.
 
 3. Ex parte orders are temporary and shall provide for an early return date for inter partes hearing.
 

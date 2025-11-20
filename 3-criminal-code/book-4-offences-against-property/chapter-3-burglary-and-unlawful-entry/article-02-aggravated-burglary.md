@@ -17,13 +17,13 @@ status: active
 1. Aggravated burglary is burglary committed in circumstances of particular gravity or danger.
 
 2. Burglary is aggravated where:
-    a. the offender is armed with a weapon, firearm, explosive, or dangerous instrument;
-    b. the offender uses or threatens violence against any person;
-    c. the burglary is committed in a dwelling while any person is present and the offender knows or is reckless as to their presence;
-    d. the burglary is committed by two or more persons acting in concert, and at least one person is armed or uses violence;
-    e. the offender causes or threatens serious harm to any person;
-    f. the burglary involves forcible entry causing substantial damage to the premises; or
-    g. the offender disguises their identity or impersonates a person of authority.
+    (a) the offender is armed with a weapon, firearm, explosive, or dangerous instrument;
+    (b) the offender uses or threatens violence against any person;
+    (c) the burglary is committed in a dwelling while any person is present and the offender knows or is reckless as to their presence;
+    (d) the burglary is committed by two or more persons acting in concert, and at least one person is armed or uses violence;
+    (e) the offender causes or threatens serious harm to any person;
+    (f) the burglary involves forcible entry causing substantial damage to the premises; or
+    (g) the offender disguises their identity or impersonates a person of authority.
 
 3. Aggravated burglary is punished under Penalty Band E.
 

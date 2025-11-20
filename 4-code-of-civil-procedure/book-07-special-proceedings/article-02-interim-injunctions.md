@@ -17,9 +17,9 @@ status: active
 1. The court may grant interim injunctions to preserve rights pending final determination.
 
 2. The applicant must show:
-   a. a serious question to be tried;
-   b. irreparable harm if the injunction is not granted;
-   c. the balance of convenience favors granting the injunction.
+   (a) a serious question to be tried;
+   (b) irreparable harm if the injunction is not granted;
+   (c) the balance of convenience favors granting the injunction.
 
 3. The court may require the applicant to give an undertaking as to damages.
 

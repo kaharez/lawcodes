@@ -17,10 +17,10 @@ status: active
 1. Any person who intentionally accesses, attempts to access, or enables another to access a protected State system without lawful authority commits an offence.
 
 2. A “protected State system” includes:
-    a. identity verification systems;
-    b. digital registers and archives;
-    c. government communication networks;
-    d. cryptographic keys, signing servers, and authentication infrastructure.
+    (a) identity verification systems;
+    (b) digital registers and archives;
+    (c) government communication networks;
+    (d) cryptographic keys, signing servers, and authentication infrastructure.
 
 3. This offence is punishable within Penalty Band C, or Penalty Band D where the act involves bypassing security controls or jeopardises system integrity.
 

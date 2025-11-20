@@ -15,6 +15,6 @@ status: active
 # Article 4 – Experiments and Demonstrations
 
 1. In-court demonstrations or experiments may be permitted if:
-   a. conditions substantially replicate those in issue;
-   b. more probative than prejudicial;
-   c. conducted under court supervision.
+   (a) conditions substantially replicate those in issue;
+   (b) more probative than prejudicial;
+   (c) conducted under court supervision.

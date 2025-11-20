@@ -15,10 +15,10 @@ status: active
 # Article 1 – Presumptions of Law
 
 1. Certain facts are presumed until the contrary is proven, including:
-   a. regularity of official acts;
-   b. continuance of life and death after long absence;
-   c. legitimacy of children born in marriage;
-   d. knowledge of the law.
+   (a) regularity of official acts;
+   (b) continuance of life and death after long absence;
+   (c) legitimacy of children born in marriage;
+   (d) knowledge of the law.
 
 2. Irrebuttable presumptions conclusively establish facts.
 

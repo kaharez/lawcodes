@@ -25,16 +25,16 @@ status: active
 5. Loan for consumption (mutuum) is a contract whereby the lender delivers fungible goods to the borrower, who acquires ownership and is obliged to return an equivalent quantity and quality. Unless otherwise agreed, no interest is due on gratuitous loans.
 
 6. Interest on loans is subject to legal limits to protect borrowers from exploitation:
-    a. the maximum annual interest rate for consumer loans is eighteen percent (18%), calculated on the outstanding principal balance;
-    b. the maximum annual interest rate for commercial loans is twenty-four percent (24%);
-    c. interest on interest (compound interest) is prohibited unless explicitly agreed in writing and does not exceed the applicable maximum rate when calculated on the original principal;
-    d. fees, charges, and other costs imposed by the lender are included in calculating the effective interest rate and may not be used to circumvent interest rate limits.
+    (a) the maximum annual interest rate for consumer loans is eighteen percent (18%), calculated on the outstanding principal balance;
+    (b) the maximum annual interest rate for commercial loans is twenty-four percent (24%);
+    (c) interest on interest (compound interest) is prohibited unless explicitly agreed in writing and does not exceed the applicable maximum rate when calculated on the original principal;
+    (d) fees, charges, and other costs imposed by the lender are included in calculating the effective interest rate and may not be used to circumvent interest rate limits.
 
 7. Usurious interest exceeding these limits is void. Where a loan provides for usurious interest:
-    a. the entire interest obligation is void and no interest is due;
-    b. the borrower remains obliged to repay only the principal sum borrowed;
-    c. any interest already paid may be recovered or credited against the principal;
-    d. the lender may face penalties and sanctions for usury, including fines and suspension of lending privileges.
+    (a) the entire interest obligation is void and no interest is due;
+    (b) the borrower remains obliged to repay only the principal sum borrowed;
+    (c) any interest already paid may be recovered or credited against the principal;
+    (d) the lender may face penalties and sanctions for usury, including fines and suspension of lending privileges.
 
 8. Loans to consumers in financial distress, including payday loans, title loans, and similar high-cost short-term credit, are subject to enhanced regulation, including lower interest rate caps, mandatory affordability assessments, and restrictions on rollovers and refinancing.
 
@@ -47,7 +47,7 @@ status: active
 12. Mandate may be gratuitous or for remuneration. Where remuneration is not agreed, it is presumed to be gratuitous unless the mandatary exercises the activity professionally.
 
 13. Mandate terminates by:
-    a. completion of the mandated act;
-    b. expiry of the term or occurrence of a condition;
-    c. revocation by the mandator or renunciation by the mandatary;
-    d. death, incapacity, or insolvency of either party, unless otherwise agreed.
+    (a) completion of the mandated act;
+    (b) expiry of the term or occurrence of a condition;
+    (c) revocation by the mandator or renunciation by the mandatary;
+    (d) death, incapacity, or insolvency of either party, unless otherwise agreed.

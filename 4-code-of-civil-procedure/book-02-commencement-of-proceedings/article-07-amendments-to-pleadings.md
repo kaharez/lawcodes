@@ -19,8 +19,8 @@ status: active
 2. Thereafter, amendments require leave of court.
 
 3. The court shall grant leave unless:
-   a. the amendment is made in bad faith;
-   b. it causes prejudice that cannot be compensated by costs;
-   c. it is futile.
+   (a) the amendment is made in bad faith;
+   (b) it causes prejudice that cannot be compensated by costs;
+   (c) it is futile.
 
 4. The court may impose conditions on amendments, including costs and adjournments.

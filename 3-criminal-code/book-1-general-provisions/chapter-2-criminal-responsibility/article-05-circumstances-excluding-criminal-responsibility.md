@@ -15,10 +15,10 @@ status: active
 # Article 5 – Circumstances Excluding Criminal Responsibility
 
 1. No offence is committed where the act is justified by:
-    a. legitimate defence, where the act was necessary to repel an unjust and imminent attack;
-    b. state of necessity, where the act was necessary to prevent a grave and imminent harm;
-    c. execution of a lawful order, issued by competent authority;
-    d. consent of the victim, where the protected interest permits lawful consent.
+    (a) legitimate defence, where the act was necessary to repel an unjust and imminent attack;
+    (b) state of necessity, where the act was necessary to prevent a grave and imminent harm;
+    (c) execution of a lawful order, issued by competent authority;
+    (d) consent of the victim, where the protected interest permits lawful consent.
 
 2. A person who acts under an unavoidable mistake of fact that negates intent shall not be held criminally responsible.
 

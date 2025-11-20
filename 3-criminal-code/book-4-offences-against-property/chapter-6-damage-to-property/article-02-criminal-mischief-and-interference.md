@@ -17,23 +17,23 @@ status: active
 1. Criminal mischief is the intentional or reckless interference with property or the lawful use of property belonging to another, without causing permanent damage but causing inconvenience, disruption, or loss of use.
 
 2. Criminal mischief includes:
-    a. tampering with, interfering with, or disabling equipment, machinery, vehicles, or systems;
-    b. interfering with utilities, communications, or infrastructure services;
-    c. placing objects or substances on property to cause nuisance or interference;
-    d. releasing animals, opening gates, or interfering with agricultural operations;
-    e. interfering with vehicles, vessels, or aircraft to prevent their use;
-    f. disabling security systems, alarms, or safety equipment; or
-    g. any other intentional interference causing inconvenience, disruption, or risk.
+    (a) tampering with, interfering with, or disabling equipment, machinery, vehicles, or systems;
+    (b) interfering with utilities, communications, or infrastructure services;
+    (c) placing objects or substances on property to cause nuisance or interference;
+    (d) releasing animals, opening gates, or interfering with agricultural operations;
+    (e) interfering with vehicles, vessels, or aircraft to prevent their use;
+    (f) disabling security systems, alarms, or safety equipment; or
+    (g) any other intentional interference causing inconvenience, disruption, or risk.
 
 3. Criminal mischief is punished under Penalty Band B.
 
 4. The penalty is aggravated to Penalty Band C where:
-    a. the interference causes significant disruption or economic loss;
-    b. the interference affects essential services, public utilities, or infrastructure;
-    c. the interference creates danger to persons or property;
-    d. the interference is committed by multiple persons or is systematic;
-    e. the interference affects emergency services, healthcare, or public safety systems; or
-    f. the offender has previous convictions for property offences.
+    (a) the interference causes significant disruption or economic loss;
+    (b) the interference affects essential services, public utilities, or infrastructure;
+    (c) the interference creates danger to persons or property;
+    (d) the interference is committed by multiple persons or is systematic;
+    (e) the interference affects emergency services, healthcare, or public safety systems; or
+    (f) the offender has previous convictions for property offences.
 
 5. Where criminal mischief results in actual damage to property, the offence may constitute criminal damage under Article 1 of this Chapter.
 

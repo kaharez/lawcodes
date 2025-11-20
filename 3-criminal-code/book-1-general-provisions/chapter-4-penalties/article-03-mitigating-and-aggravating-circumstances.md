@@ -15,16 +15,16 @@ status: active
 # Article 3 – Mitigating and Aggravating Circumstances
 
 1. In determining the penalty within the applicable band, the court shall consider:
-    a. mitigating circumstances, including:
-    i. voluntary surrender or confession;
+    (a) mitigating circumstances, including:
+    (i) voluntary surrender or confession;
     ii. cooperation with the investigation;
     iii. sincere remorse;
     iv. restitution made before judgment;
-    b. aggravating circumstances, including:
-    i. abuse of a public office or honour;
+    (b) aggravating circumstances, including:
+    (i) abuse of a public office or honour;
     ii. targeting State systems, registers, or institutions;
     iii. exploitation of minors or vulnerable persons;
     iv. recidivism within ten years;
-    v. offences committed through deliberate concealment of identity or digital manipulation.
+    (v) offences committed through deliberate concealment of identity or digital manipulation.
 
 2. The court shall state in its judgment the reasons for selecting the penalty within the band.

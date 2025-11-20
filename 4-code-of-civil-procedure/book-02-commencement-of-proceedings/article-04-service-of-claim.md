@@ -17,8 +17,8 @@ status: active
 1. The claimant shall serve the statement of claim on all defendants within 30 days of filing.
 
 2. Service shall be accompanied by:
-   a. a notice of the right to defend;
-   b. the time limit for filing a defense;
-   c. information about court procedures.
+   (a) a notice of the right to defend;
+   (b) the time limit for filing a defense;
+   (c) information about court procedures.
 
 3. A defendant served outside Kaharagia shall have extended time to respond as ordered by the court.

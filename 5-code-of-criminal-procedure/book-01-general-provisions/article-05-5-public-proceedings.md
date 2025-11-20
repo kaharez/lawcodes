@@ -15,9 +15,9 @@ status: active
 # Article 5 – Public Proceedings
 
 1. Criminal proceedings shall be public unless the court orders otherwise to protect:
-   a. national security;
-   b. public morals;
-   c. privacy of victims or witnesses;
-   d. the administration of justice.
+   (a) national security;
+   (b) public morals;
+   (c) privacy of victims or witnesses;
+   (d) the administration of justice.
 
 2. Judgments shall be public.

@@ -17,10 +17,10 @@ status: active
 1. The court shall convene a pre-trial conference not less than 30 days before trial.
 
 2. At the pre-trial conference, the parties shall:
-   a. identify admitted facts and narrow issues;
-   b. discuss settlement possibilities;
-   c. estimate the length of trial;
-   d. address any procedural matters.
+   (a) identify admitted facts and narrow issues;
+   (b) discuss settlement possibilities;
+   (c) estimate the length of trial;
+   (d) address any procedural matters.
 
 3. The court may make orders to facilitate an efficient trial.
 

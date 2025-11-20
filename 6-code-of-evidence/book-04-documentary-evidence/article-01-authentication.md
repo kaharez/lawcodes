@@ -17,9 +17,9 @@ status: active
 1. Documents must be authenticated by evidence of their genuineness.
 
 2. Authentication may be by:
-   a. testimony of a witness;
-   b. comparison with authenticated samples;
-   c. presumptions (ancient documents, public documents);
-   d. admission of authenticity.
+   (a) testimony of a witness;
+   (b) comparison with authenticated samples;
+   (c) presumptions (ancient documents, public documents);
+   (d) admission of authenticity.
 
 3. Self-authenticating documents include official seals and certified copies.

@@ -15,8 +15,8 @@ status: active
 # Article 4 – Rehearing upon Appearance
 
 1. A person convicted in absence shall be entitled to request a rehearing upon demonstrating:
-    a. that they were not effectively notified; or
-    b. that their absence was due to circumstances beyond their control.
+    (a) that they were not effectively notified; or
+    (b) that their absence was due to circumstances beyond their control.
 
 2. Upon granting a rehearing, the prior judgment shall be set aside, and the case shall proceed as though no trial had taken place.
 

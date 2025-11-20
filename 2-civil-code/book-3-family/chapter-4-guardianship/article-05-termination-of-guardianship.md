@@ -15,8 +15,8 @@ status: active
 # Article 5 – Termination of Guardianship
 
 1. Guardianship terminates upon:
-    a. the ward attaining majority;
-    b. adoption of the ward;
-    c. death of the ward; or
-    d. decree relieving the guardian for cause or upon petition.
+    (a) the ward attaining majority;
+    (b) adoption of the ward;
+    (c) death of the ward; or
+    (d) decree relieving the guardian for cause or upon petition.
 2. Upon termination, the guardian shall deliver a full accounting to the Chancellery and transfer any property or records of the ward.

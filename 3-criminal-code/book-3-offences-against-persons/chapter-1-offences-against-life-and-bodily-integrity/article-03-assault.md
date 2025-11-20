@@ -17,8 +17,8 @@ status: active
 1. Any person who intentionally inflicts bodily harm upon another commits the offence of assault.
 
 2. Assault includes:
-    a. striking, beating, or inflicting injury;
-    b. causing injury through unlawful restraint;
-    c. use of digital devices or methods to cause physical harm.
+    (a) striking, beating, or inflicting injury;
+    (b) causing injury through unlawful restraint;
+    (c) use of digital devices or methods to cause physical harm.
 
 3. Assault is punishable within Penalty Band B, or Penalty Band C where the harm is serious or repeated.

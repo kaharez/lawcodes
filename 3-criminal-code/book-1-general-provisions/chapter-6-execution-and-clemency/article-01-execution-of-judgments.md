@@ -19,10 +19,10 @@ status: active
 2. Execution shall be supervised by the Registrar of the High Court or by an authorised officer acting under its direction.
 
 3. Penalties are executed in accordance with their nature, including:
-    a. collection of fines and day-fines;
-    b. enforcement of restitution and compensation orders;
-    c. carrying out disqualification, suspension, or revocation of rights, statuses, or honours;
-    d. publication of the judgment where required;
-    e. coordination with foreign authorities for recognised custodial penalties.
+    (a) collection of fines and day-fines;
+    (b) enforcement of restitution and compensation orders;
+    (c) carrying out disqualification, suspension, or revocation of rights, statuses, or honours;
+    (d) publication of the judgment where required;
+    (e) coordination with foreign authorities for recognised custodial penalties.
 
 4. Execution shall respect the principles of proportionality, dignity, and the rights of the convicted person.

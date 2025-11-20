@@ -17,10 +17,10 @@ status: active
 1. A party intending to rely on expert evidence shall serve an expert report on all parties at least 60 days before trial.
 
 2. The expert report shall:
-   a. state the expert's qualifications;
-   b. set out the facts and assumptions relied upon;
-   c. provide the expert's opinion and reasoning;
-   d. acknowledge the expert's duty to the court.
+   (a) state the expert's qualifications;
+   (b) set out the facts and assumptions relied upon;
+   (c) provide the expert's opinion and reasoning;
+   (d) acknowledge the expert's duty to the court.
 
 3. The court may order a joint expert or limit the number of experts.
 

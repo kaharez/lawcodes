@@ -15,11 +15,11 @@ status: active
 # Article 5 – Powers of Appellate Court
 
 1. The appellate court may:
-   a. affirm, vary, or reverse the judgment appealed from;
-   b. order a new trial;
-   c. make any order the trial court could have made;
-   d. remit the matter to the trial court with directions;
-   e. award costs.
+   (a) affirm, vary, or reverse the judgment appealed from;
+   (b) order a new trial;
+   (c) make any order the trial court could have made;
+   (d) remit the matter to the trial court with directions;
+   (e) award costs.
 
 2. The appellate court shall not disturb findings of fact unless clearly wrong.
 

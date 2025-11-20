@@ -17,26 +17,26 @@ status: active
 1. Impersonation of public officials is the act of falsely representing oneself as a public official, law enforcement officer, judge, or other person holding public authority, for the purpose of obtaining advantage, causing harm, or exercising purported official authority.
 
 2. Impersonation of public officials includes:
-    a. falsely claiming to be a police officer, law enforcement agent, or security official;
-    b. falsely claiming to be a judge, prosecutor, or judicial officer;
-    c. falsely claiming to be a government official, inspector, or regulatory authority;
-    d. using false badges, uniforms, credentials, or identification to impersonate officials;
-    e. exercising or purporting to exercise official authority without lawful appointment;
-    f. conducting searches, seizures, arrests, or other official acts while impersonating an official;
-    g. demanding compliance, payments, or benefits by falsely claiming official authority; or
-    h. any other false representation as a person holding public office or authority.
+    (a) falsely claiming to be a police officer, law enforcement agent, or security official;
+    (b) falsely claiming to be a judge, prosecutor, or judicial officer;
+    (c) falsely claiming to be a government official, inspector, or regulatory authority;
+    (d) using false badges, uniforms, credentials, or identification to impersonate officials;
+    (e) exercising or purporting to exercise official authority without lawful appointment;
+    (f) conducting searches, seizures, arrests, or other official acts while impersonating an official;
+    (g) demanding compliance, payments, or benefits by falsely claiming official authority; or
+    (h) any other false representation as a person holding public office or authority.
 
 3. Impersonation of public officials is punished under Penalty Band D.
 
 4. The penalty is aggravated to Penalty Band E where:
-    a. the impersonation is used to commit fraud, extortion, sexual offences, or other serious crimes;
-    b. the impersonation involves deprivation of liberty, searches, or other invasions of rights;
-    c. the impersonation is systematic or part of organized criminal activity;
-    d. the impersonation causes significant harm, loss, or undermines public confidence in authorities;
-    e. the impersonation involves impersonating judicial or law enforcement officers;
-    f. the impersonation is used to gain access to restricted areas, information, or property;
-    g. the impersonation targets vulnerable persons; or
-    h. the offender has previous convictions for impersonation or fraud.
+    (a) the impersonation is used to commit fraud, extortion, sexual offences, or other serious crimes;
+    (b) the impersonation involves deprivation of liberty, searches, or other invasions of rights;
+    (c) the impersonation is systematic or part of organized criminal activity;
+    (d) the impersonation causes significant harm, loss, or undermines public confidence in authorities;
+    (e) the impersonation involves impersonating judicial or law enforcement officers;
+    (f) the impersonation is used to gain access to restricted areas, information, or property;
+    (g) the impersonation targets vulnerable persons; or
+    (h) the offender has previous convictions for impersonation or fraud.
 
 5. Impersonation for the purpose of entertainment, satire, or artistic performance, where the context makes clear the impersonation is not genuine, is not an offence under this Article.
 

@@ -17,10 +17,10 @@ status: active
 1. All documents filed with the court shall be served on all parties.
 
 2. Service may be effected by:
-   a. personal delivery;
-   b. registered post to the party's address for service;
-   c. electronic means where agreed or ordered;
-   d. any other method ordered by the court.
+   (a) personal delivery;
+   (b) registered post to the party's address for service;
+   (c) electronic means where agreed or ordered;
+   (d) any other method ordered by the court.
 
 3. Proof of service shall be filed with the court.
 

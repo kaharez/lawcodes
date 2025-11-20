@@ -17,9 +17,9 @@ status: active
 1. Every natural person has legal personality from birth to death and possesses full civil capacity unless otherwise provided by law.
 
 2. Civil capacity may be limited or modified by:
-   a. minority;
-   b. judicial declaration of incapacity;
-   c. specific legal provisions.
+   (a) minority;
+   (b) judicial declaration of incapacity;
+   (c) specific legal provisions.
 
 3. Juridical persons possess the civil capacity conferred by their constituting instruments and by law.
 

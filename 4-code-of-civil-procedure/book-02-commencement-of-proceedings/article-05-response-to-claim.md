@@ -17,9 +17,9 @@ status: active
 1. A defendant shall file a statement of defense within 30 days of service of the claim.
 
 2. The defense shall:
-   a. admit or deny each allegation in the claim;
-   b. state any additional facts relied upon;
-   c. raise any procedural objections;
-   d. state any counterclaim.
+   (a) admit or deny each allegation in the claim;
+   (b) state any additional facts relied upon;
+   (c) raise any procedural objections;
+   (d) state any counterclaim.
 
 3. Failure to file a defense may result in default judgment.

@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally alters, deletes, falsifies, or obstructs access to an official State register commits an offence.
 
 2. For the purposes of this Article, “State register” includes:
-    a. the National Identity Register and records of Verified Kaharagian Status;
-    b. the Registers of Honours, Arms, Heraldry, and Commissions;
-    c. the Registers of Decrees, Correspondence, and Legal Acts;
-    d. any digital or physical register maintained under authority of the State.
+    (a) the National Identity Register and records of Verified Kaharagian Status;
+    (b) the Registers of Honours, Arms, Heraldry, and Commissions;
+    (c) the Registers of Decrees, Correspondence, and Legal Acts;
+    (d) any digital or physical register maintained under authority of the State.
 
 3. This offence is punishable within Penalty Band D, or Penalty Band E where the interference compromises security, nationality records, legal acts, or public integrity.

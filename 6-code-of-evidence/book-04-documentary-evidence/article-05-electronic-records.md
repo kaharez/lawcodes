@@ -17,8 +17,8 @@ status: active
 1. Electronic records are admissible if authentic and reliable.
 
 2. Authenticity is established by evidence of:
-   a. the integrity of the system;
-   b. security measures;
-   c. metadata and audit trails.
+   (a) the integrity of the system;
+   (b) security measures;
+   (c) metadata and audit trails.
 
 3. Electronic signatures are presumed valid if made in accordance with law.

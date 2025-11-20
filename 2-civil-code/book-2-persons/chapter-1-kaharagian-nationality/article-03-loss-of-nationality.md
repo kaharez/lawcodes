@@ -15,8 +15,8 @@ status: active
 # Article 3 – Loss of Nationality
 
 1. Kaharagian nationality may be lost only in the forms and under the conditions established by this Code. Loss of nationality may occur:
-    a. By voluntary renunciation, accepted by sovereign decree; or
-    b. by deprivation, imposed by sovereign decree.
+    (a) By voluntary renunciation, accepted by sovereign decree; or
+    (b) by deprivation, imposed by sovereign decree.
 
 2. Every loss of nationality shall originate in a sovereign decree, which constitutes the highest legal authority for terminating nationality. Such decrees shall be published in the Royal Kaharagian Gazette to serve as public notice and recorded in the National Register of Kaharagian Nationals to constitute definitive legal proof.
 

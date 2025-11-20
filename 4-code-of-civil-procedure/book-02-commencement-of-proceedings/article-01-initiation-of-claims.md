@@ -17,11 +17,11 @@ status: active
 1. Civil proceedings are commenced by filing a statement of claim with the court.
 
 2. The statement of claim shall include:
-   a. identification of the court and parties;
-   b. a clear statement of facts giving rise to the claim;
-   c. the legal basis for the claim;
-   d. the relief sought;
-   e. supporting evidence or documents.
+   (a) identification of the court and parties;
+   (b) a clear statement of facts giving rise to the claim;
+   (c) the legal basis for the claim;
+   (d) the relief sought;
+   (e) supporting evidence or documents.
 
 3. The claim shall be accompanied by the prescribed filing fee.
 

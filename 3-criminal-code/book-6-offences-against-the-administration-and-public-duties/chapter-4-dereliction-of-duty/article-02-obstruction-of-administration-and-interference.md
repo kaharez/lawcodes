@@ -17,26 +17,26 @@ status: active
 1. Obstruction of administration is the intentional interference with, obstruction of, or resistance to lawful administrative functions, official acts, or public duties.
 
 2. Obstruction of administration includes:
-    a. resisting, obstructing, or interfering with public officials in the lawful performance of their duties;
-    b. refusing to comply with lawful orders, directives, or requests from competent authorities;
-    c. obstructing inspections, audits, investigations, or enforcement actions;
-    d. interfering with administrative proceedings, hearings, or decision-making processes;
-    e. providing false information, documents, or statements to obstruct administrative functions;
-    f. concealing or destroying documents or evidence required for administrative purposes;
-    g. intimidating, threatening, or coercing public officials to prevent or influence the performance of official duties;
-    h. obstructing the service of legal documents or execution of administrative decisions; or
-    i. any other act preventing or hindering the lawful exercise of administrative functions.
+    (a) resisting, obstructing, or interfering with public officials in the lawful performance of their duties;
+    (b) refusing to comply with lawful orders, directives, or requests from competent authorities;
+    (c) obstructing inspections, audits, investigations, or enforcement actions;
+    (d) interfering with administrative proceedings, hearings, or decision-making processes;
+    (e) providing false information, documents, or statements to obstruct administrative functions;
+    (f) concealing or destroying documents or evidence required for administrative purposes;
+    (g) intimidating, threatening, or coercing public officials to prevent or influence the performance of official duties;
+    (h) obstructing the service of legal documents or execution of administrative decisions; or
+    (i) any other act preventing or hindering the lawful exercise of administrative functions.
 
 3. Obstruction of administration is punished under Penalty Band C.
 
 4. The penalty is aggravated to Penalty Band D where:
-    a. the obstruction involves violence, threats, or intimidation;
-    b. the obstruction affects important public functions, including law enforcement, tax administration, or regulatory enforcement;
-    c. the obstruction is systematic or part of organized resistance to lawful authority;
-    d. the obstruction causes significant delay, disruption, or harm to public administration;
-    e. the obstruction facilitates or conceals other offences;
-    f. multiple persons act in concert to obstruct official functions; or
-    g. the offender has previous convictions for obstruction or related offences.
+    (a) the obstruction involves violence, threats, or intimidation;
+    (b) the obstruction affects important public functions, including law enforcement, tax administration, or regulatory enforcement;
+    (c) the obstruction is systematic or part of organized resistance to lawful authority;
+    (d) the obstruction causes significant delay, disruption, or harm to public administration;
+    (e) the obstruction facilitates or conceals other offences;
+    (f) multiple persons act in concert to obstruct official functions; or
+    (g) the offender has previous convictions for obstruction or related offences.
 
 5. Where obstruction of administration involves violence or serious threats against officials, the offence may also constitute assault or threats under Book 3, with the official capacity as an aggravating circumstance.
 

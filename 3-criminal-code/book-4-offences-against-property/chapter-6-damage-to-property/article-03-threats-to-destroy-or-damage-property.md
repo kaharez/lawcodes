@@ -17,23 +17,23 @@ status: active
 1. It is an offence to threaten to destroy or damage property belonging to another, where the threat is made with the intention of causing fear, alarm, or distress, or for the purpose of compelling another person to do or refrain from doing any act.
 
 2. Threats to destroy or damage property include:
-    a. threatening to set fire to property or commit arson;
-    b. threatening to damage vehicles, dwellings, or other property;
-    c. threatening to destroy crops, livestock, or agricultural property;
-    d. threatening to damage business premises or equipment to disrupt operations;
-    e. threatening to cause environmental damage or pollution; or
-    f. making bomb threats or threats to use explosives or dangerous substances.
+    (a) threatening to set fire to property or commit arson;
+    (b) threatening to damage vehicles, dwellings, or other property;
+    (c) threatening to destroy crops, livestock, or agricultural property;
+    (d) threatening to damage business premises or equipment to disrupt operations;
+    (e) threatening to cause environmental damage or pollution; or
+    (f) making bomb threats or threats to use explosives or dangerous substances.
 
 3. Threats to destroy or damage property are punished under Penalty Band C.
 
 4. The penalty is aggravated to Penalty Band D where:
-    a. the threat is made against dwellings, places of worship, schools, or public buildings;
-    b. the threat causes evacuation, disruption, or significant public alarm;
-    c. the threat is made against critical infrastructure or essential services;
-    d. the threat is made repeatedly or as part of harassment, extortion, or coercion;
-    e. the threat involves explosives, fire, or particularly dangerous means;
-    f. the threat is made in connection with terrorism, organized crime, or other serious offences; or
-    g. the offender has previous convictions for threats or property offences.
+    (a) the threat is made against dwellings, places of worship, schools, or public buildings;
+    (b) the threat causes evacuation, disruption, or significant public alarm;
+    (c) the threat is made against critical infrastructure or essential services;
+    (d) the threat is made repeatedly or as part of harassment, extortion, or coercion;
+    (e) the threat involves explosives, fire, or particularly dangerous means;
+    (f) the threat is made in connection with terrorism, organized crime, or other serious offences; or
+    (g) the offender has previous convictions for threats or property offences.
 
 5. It is not necessary that the threat be carried out or that the accused has the ability or intention to carry out the threat, provided the threat was made and was likely to cause fear or alarm.
 

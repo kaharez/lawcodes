@@ -17,10 +17,10 @@ status: active
 1. A juridical person is an entity possessing legal personality distinct from that of its members, founders, or directors, and is capable of having rights and bearing obligations in its own name.
 
 2. Juridical persons include:
-    a. corporations organized for profit, including companies and cooperative corporations;
-    b. non-profit associations;
-    c. foundations established for charitable, educational, cultural, or other public benefit purposes;
-    d. such other entities as are granted juridical personality by law or sovereign decree.
+    (a) corporations organized for profit, including companies and cooperative corporations;
+    (b) non-profit associations;
+    (c) foundations established for charitable, educational, cultural, or other public benefit purposes;
+    (d) such other entities as are granted juridical personality by law or sovereign decree.
 
 3. A juridical person has the capacity to own property, to contract, to sue and be sued in its own name, and to perform all juridical acts necessary for the pursuit of its purposes, subject to the limitations imposed by law, its constitutive documents, and the nature of its legal form.
 

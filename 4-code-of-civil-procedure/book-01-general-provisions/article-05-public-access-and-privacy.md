@@ -15,10 +15,10 @@ status: active
 # Article 5 – Public Access and Privacy
 
 1. Court hearings shall be held in public unless the court orders otherwise to protect:
-   a. national security;
-   b. public morals;
-   c. the privacy of parties, particularly in family matters;
-   d. commercial confidentiality where compelling reasons exist.
+   (a) national security;
+   (b) public morals;
+   (c) the privacy of parties, particularly in family matters;
+   (d) commercial confidentiality where compelling reasons exist.
 
 2. The court may exclude the public from sensitive proceedings involving minors or vulnerable persons.
 

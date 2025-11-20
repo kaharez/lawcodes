@@ -15,9 +15,9 @@ status: active
 # Article 4 – Classification of Offences
 
 1. Offences under this Code are classified as:
-    a. Crimes, being the most serious offences;
-    b. Delicts, being ordinary criminal offences; and
-    c. Infractions, being minor violations primarily subject to fines or administrative sanctions.
+    (a) Crimes, being the most serious offences;
+    (b) Delicts, being ordinary criminal offences; and
+    (c) Infractions, being minor violations primarily subject to fines or administrative sanctions.
 
 2. The classification of an offence determines the applicable penalties and the competent judicial authority.
 

@@ -15,11 +15,11 @@ status: active
 # Article 2 – Types of Protection Measures
 
 1. Protection of an adult may take the following forms:
-    a. curatorship to the person, to the property, or to both;
-    b. tutorship to adults, for persons requiring less restrictive protection;
-    c. judicial advisor or counselor, who assists the person without substituting for their decision-making;
-    d. recognition and homologation of a mandate given in anticipation of incapacity;
-    e. such other measures as are appropriate to the degree and nature of the person's incapacity.
+    (a) curatorship to the person, to the property, or to both;
+    (b) tutorship to adults, for persons requiring less restrictive protection;
+    (c) judicial advisor or counselor, who assists the person without substituting for their decision-making;
+    (d) recognition and homologation of a mandate given in anticipation of incapacity;
+    (e) such other measures as are appropriate to the degree and nature of the person's incapacity.
 
 2. Curatorship to the person is appointed when the protected person is unable to care for themselves and make decisions concerning their personal well-being, health, and living arrangements. The curator makes decisions on behalf of the person, in consultation with the person to the extent possible and in their best interests.
 

@@ -17,8 +17,8 @@ status: active
 1. Any person who intentionally threatens another with harm to life, health, liberty, or property commits an offence.
 
 2. Coercion includes:
-    a. compelling another person to act or refrain from acting through threats;
-    b. digital or written threats intended to cause fear or compliance;
-    c. threatening to reveal personal information for the purpose of intimidation.
+    (a) compelling another person to act or refrain from acting through threats;
+    (b) digital or written threats intended to cause fear or compliance;
+    (c) threatening to reveal personal information for the purpose of intimidation.
 
 3. This offence is punishable within Penalty Band B, or Penalty Band C where the threat is credible, severe, or repeated.

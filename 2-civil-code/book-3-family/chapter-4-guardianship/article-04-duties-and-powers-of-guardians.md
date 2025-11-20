@@ -16,7 +16,7 @@ status: active
 
 1. Guardians shall provide for the care, support, and education of the ward and manage their property with prudence and loyalty.
 2. Guardians shall seek sovereign approval for major acts concerning the ward’s property, including:
-    a. sale, mortgage, or transfer of property;
-    b. renunciation or acceptance of inheritance;
-    c. any act affecting heraldic or ceremonial estates.
+    (a) sale, mortgage, or transfer of property;
+    (b) renunciation or acceptance of inheritance;
+    (c) any act affecting heraldic or ceremonial estates.
 3. Guardians are accountable to the Chancellery and must render accounts upon request and upon termination of guardianship.

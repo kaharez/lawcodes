@@ -15,10 +15,10 @@ status: active
 # Article 1 – Victim Rights
 
 1. Victims have the right to:
-   a. be treated with dignity and respect;
-   b. information about proceedings;
-   c. present victim impact statements;
-   d. protection from intimidation;
-   e. restitution or compensation.
+   (a) be treated with dignity and respect;
+   (b) information about proceedings;
+   (c) present victim impact statements;
+   (d) protection from intimidation;
+   (e) restitution or compensation.
 
 2. Victim rights shall be respected throughout proceedings.

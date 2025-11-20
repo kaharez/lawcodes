@@ -15,21 +15,21 @@ status: active
 # Article 2 – Extinction of Obligations
 
 1. Obligations are extinguished by:
-    a. performance;
-    b. novation;
-    c. compensation (set-off);
-    d. confusion (merger);
-    e. remission of debt;
-    f. impossibility of performance;
-    g. prescription;
-    h. other means provided by law or agreement.
+    (a) performance;
+    (b) novation;
+    (c) compensation (set-off);
+    (d) confusion (merger);
+    (e) remission of debt;
+    (f) impossibility of performance;
+    (g) prescription;
+    (h) other means provided by law or agreement.
 
 2. Novation is the extinction of an existing obligation and its replacement by a new obligation differing in object, cause, or parties. Novation requires the clear intention of the parties to extinguish the original obligation.
 
 3. Novation may occur by:
-    a. substitution of a new debtor with the consent of the creditor and release of the original debtor;
-    b. substitution of a new creditor with the consent of the debtor;
-    c. change in the essential elements of the obligation.
+    (a) substitution of a new debtor with the consent of the creditor and release of the original debtor;
+    (b) substitution of a new creditor with the consent of the debtor;
+    (c) change in the essential elements of the obligation.
 
 4. Compensation occurs automatically when two persons are mutually debtors and creditors of obligations that are fungible, due, and liquidated. Each obligation is extinguished to the extent of the lesser amount.
 

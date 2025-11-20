@@ -15,12 +15,12 @@ status: active
 # Article 1 – Burden and Standard of Proof
 
 1. In civil proceedings:
-   a. the burden of proof rests on the party asserting a fact;
-   b. the standard is the balance of probabilities.
+   (a) the burden of proof rests on the party asserting a fact;
+   (b) the standard is the balance of probabilities.
 
 2. In criminal proceedings:
-   a. the prosecution bears the burden of proving guilt;
-   b. the standard is beyond reasonable doubt;
-   c. the defense bears burden on defenses on the balance of probabilities.
+   (a) the prosecution bears the burden of proving guilt;
+   (b) the standard is beyond reasonable doubt;
+   (c) the defense bears burden on defenses on the balance of probabilities.
 
 3. Legal presumptions may shift burdens.

@@ -17,9 +17,9 @@ status: active
 1. Communications between lawyer and client for the purpose of legal advice are privileged.
 
 2. Privilege extends to:
-   a. advice in contemplation of litigation;
-   b. documents prepared for litigation;
-   c. communications with third parties for litigation purposes.
+   (a) advice in contemplation of litigation;
+   (b) documents prepared for litigation;
+   (c) communications with third parties for litigation purposes.
 
 3. Privilege belongs to the client and may be waived only by the client.
 

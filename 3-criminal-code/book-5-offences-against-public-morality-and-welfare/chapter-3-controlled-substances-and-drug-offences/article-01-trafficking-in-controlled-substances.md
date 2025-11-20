@@ -17,25 +17,25 @@ status: active
 1. Trafficking in controlled substances is the production, manufacture, cultivation, extraction, preparation, sale, supply, distribution, export, import, or transportation of controlled substances.
 
 2. For the purposes of this Chapter, "controlled substances" include narcotic drugs, psychotropic substances, and other substances designated as controlled by the State or by international conventions to which the State is party, including but not limited to:
-    a. opiates and opiate derivatives;
-    b. cocaine and derivatives;
-    c. cannabis and cannabis derivatives;
-    d. amphetamines and methamphetamines;
-    e. hallucinogenic substances;
-    f. synthetic drugs and designer drugs; and
-    g. precursor chemicals used in the manufacture of controlled substances.
+    (a) opiates and opiate derivatives;
+    (b) cocaine and derivatives;
+    (c) cannabis and cannabis derivatives;
+    (d) amphetamines and methamphetamines;
+    (e) hallucinogenic substances;
+    (f) synthetic drugs and designer drugs; and
+    (g) precursor chemicals used in the manufacture of controlled substances.
 
 3. Trafficking in controlled substances is punished under Penalty Band E.
 
 4. The penalty is aggravated where:
-    a. the trafficking involves substantial quantities of controlled substances;
-    b. the trafficking is part of organized criminal activity or transnational networks;
-    c. the trafficking involves particularly dangerous or harmful substances;
-    d. the trafficking targets or involves minors or vulnerable persons;
-    e. the trafficking occurs in or near schools, youth facilities, or places frequented by children;
-    f. the trafficking involves use of violence, weapons, or corruption of officials;
-    g. the offender holds a professional or official position of trust; or
-    h. the offender has previous convictions for drug offences.
+    (a) the trafficking involves substantial quantities of controlled substances;
+    (b) the trafficking is part of organized criminal activity or transnational networks;
+    (c) the trafficking involves particularly dangerous or harmful substances;
+    (d) the trafficking targets or involves minors or vulnerable persons;
+    (e) the trafficking occurs in or near schools, youth facilities, or places frequented by children;
+    (f) the trafficking involves use of violence, weapons, or corruption of officials;
+    (g) the offender holds a professional or official position of trust; or
+    (h) the offender has previous convictions for drug offences.
 
 5. Possession of controlled substances with intent to supply or distribute is punished under Penalty Band D.
 

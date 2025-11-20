@@ -15,8 +15,8 @@ status: active
 # Article 2 – Business Records
 
 1. Records made in the ordinary course of business are admissible if:
-   a. made contemporaneously;
-   b. by a person with knowledge;
-   c. in the regular course of business.
+   (a) made contemporaneously;
+   (b) by a person with knowledge;
+   (c) in the regular course of business.
 
 2. An affidavit of the records keeper may authenticate the record.

@@ -17,8 +17,8 @@ status: active
 1. The Sovereign may, in the exercise of the Sovereign prerogative, order the loss of nationality of a person convicted of an offence that gravely endangers the security, dignity, or essential interests of the State.
 
 2. Loss of nationality shall take effect only through a Sovereign Decree, issued upon:
-    a. recommendation of the High Court; or
-    b. the Sovereign’s own motion, having regard to the gravity of the offence and the protection of the national community.
+    (a) recommendation of the High Court; or
+    (b) the Sovereign’s own motion, having regard to the gravity of the offence and the protection of the national community.
 
 3. The court may recommend loss of nationality in its judgment, but such recommendation shall not bind the Sovereign.
 

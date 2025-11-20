@@ -15,9 +15,9 @@ status: active
 # Article 2 – Kidnapping
 
 1. Kidnapping is the act of seizing, transporting, or detaining another person with intent to:
-    a. obtain ransom or advantage;
-    b. compel an act or omission;
-    c. harm or intimidate; or
-    d. affect a public or political matter.
+    (a) obtain ransom or advantage;
+    (b) compel an act or omission;
+    (c) harm or intimidate; or
+    (d) affect a public or political matter.
 
 2. Kidnapping is punishable within Penalty Band E.

@@ -15,9 +15,9 @@ status: active
 # Article 4 – Search and Seizure
 
 1. Search of persons or premises requires judicial authorization unless:
-   a. consent is given;
-   b. incident to lawful arrest;
-   c. exigent circumstances exist.
+   (a) consent is given;
+   (b) incident to lawful arrest;
+   (c) exigent circumstances exist.
 
 2. Search warrants shall specify the place to be searched and items sought.
 

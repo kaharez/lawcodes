@@ -19,17 +19,17 @@ status: active
 2. Descendants who succeed, whether by their own right or by representation, must bring into collation all gifts received from the deceased during their lifetime, unless the deceased expressly dispensed with collation.
 
 3. Collation is not required:
-    a. where the deceased expressly declared the gift to be made in advancement of the heir's share or expressly dispensed with collation;
-    b. for gifts made to ascendants, collateral relatives, or the surviving spouse, unless they were expressly stated to be subject to collation;
-    c. for ordinary gifts of modest value appropriate to the circumstances (customary presents);
-    d. for expenses of education, maintenance, or establishment in trade or profession, unless disproportionate to the deceased's means.
+    (a) where the deceased expressly declared the gift to be made in advancement of the heir's share or expressly dispensed with collation;
+    (b) for gifts made to ascendants, collateral relatives, or the surviving spouse, unless they were expressly stated to be subject to collation;
+    (c) for ordinary gifts of modest value appropriate to the circumstances (customary presents);
+    (d) for expenses of education, maintenance, or establishment in trade or profession, unless disproportionate to the deceased's means.
 
 4. An heir may avoid collation by renouncing the succession. Renunciation relieves the heir of the obligation to bring gifts into account but also deprives them of any share in the succession.
 
 5. Collation may be made:
-    a. in kind, by returning the property received to the estate, if the property still exists in substantially the same condition;
-    b. by taking less, whereby the value of the gift is deducted from the heir's share;
-    c. in value, by paying into the estate an amount equal to the value of the gift at the time it was made, adjusted for inflation or other factors as the court may direct.
+    (a) in kind, by returning the property received to the estate, if the property still exists in substantially the same condition;
+    (b) by taking less, whereby the value of the gift is deducted from the heir's share;
+    (c) in value, by paying into the estate an amount equal to the value of the gift at the time it was made, adjusted for inflation or other factors as the court may direct.
 
 6. The value of collatable gifts is determined as of the date of the gift, but account may be taken of subsequent changes in value due to improvements, deterioration, or inflation, according to principles of equity.
 

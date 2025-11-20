@@ -17,7 +17,7 @@ status: active
 1. Corroboration is not generally required.
 
 2. Where required by law, corroboration must be independent evidence tending to show:
-   a. the offence was committed;
-   b. by the accused.
+   (a) the offence was committed;
+   (b) by the accused.
 
 3. Judges may warn of dangers of acting on uncorroborated evidence in certain circumstances.

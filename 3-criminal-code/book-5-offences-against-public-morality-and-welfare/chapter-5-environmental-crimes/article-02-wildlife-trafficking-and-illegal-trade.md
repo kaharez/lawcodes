@@ -17,25 +17,25 @@ status: active
 1. Wildlife trafficking and illegal trade is the unlawful hunting, capturing, killing, possessing, transporting, selling, or trading in protected species, endangered species, or wildlife products in violation of conservation laws and international agreements.
 
 2. Wildlife trafficking and illegal trade includes:
-    a. hunting, trapping, or capturing protected or endangered species;
-    b. killing or harming protected wildlife;
-    c. possessing, selling, or trading in protected species or their parts, including ivory, rhino horn, exotic skins, or other wildlife products;
-    d. trafficking in live animals for the illegal pet trade;
-    e. importing or exporting protected species or wildlife products in violation of CITES or other international agreements;
-    f. operating illegal wildlife markets or facilitating wildlife trafficking;
-    g. destroying nests, eggs, or habitats of protected species; or
-    h. any other unlawful trade or exploitation of wildlife.
+    (a) hunting, trapping, or capturing protected or endangered species;
+    (b) killing or harming protected wildlife;
+    (c) possessing, selling, or trading in protected species or their parts, including ivory, rhino horn, exotic skins, or other wildlife products;
+    (d) trafficking in live animals for the illegal pet trade;
+    (e) importing or exporting protected species or wildlife products in violation of CITES or other international agreements;
+    (f) operating illegal wildlife markets or facilitating wildlife trafficking;
+    (g) destroying nests, eggs, or habitats of protected species; or
+    (h) any other unlawful trade or exploitation of wildlife.
 
 3. Wildlife trafficking and illegal trade is punished under Penalty Band D.
 
 4. The penalty is aggravated to Penalty Band E where:
-    a. the trafficking involves species at severe risk of extinction;
-    b. the trafficking is systematic, commercial, or part of organized criminal networks;
-    c. the trafficking involves large quantities or high-value species;
-    d. the trafficking uses violence, corruption, or infiltration of conservation areas;
-    e. the trafficking causes significant harm to ecosystems or species populations;
-    f. the offender holds a position of responsibility for wildlife conservation or law enforcement; or
-    g. the offender has previous convictions for environmental or wildlife crimes.
+    (a) the trafficking involves species at severe risk of extinction;
+    (b) the trafficking is systematic, commercial, or part of organized criminal networks;
+    (c) the trafficking involves large quantities or high-value species;
+    (d) the trafficking uses violence, corruption, or infiltration of conservation areas;
+    (e) the trafficking causes significant harm to ecosystems or species populations;
+    (f) the offender holds a position of responsibility for wildlife conservation or law enforcement; or
+    (g) the offender has previous convictions for environmental or wildlife crimes.
 
 5. Illegal fishing in protected waters or for protected species, including use of destructive or prohibited fishing methods, is punished under Penalty Band C, or Penalty Band D where conducted on a commercial scale or causing significant ecological harm.
 

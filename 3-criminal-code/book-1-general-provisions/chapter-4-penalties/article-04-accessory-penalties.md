@@ -15,11 +15,11 @@ status: active
 # Article 4 – Accessory Penalties
 
 1. In addition to the principal penalty, the court may impose one or more accessory penalties, including:
-    a. publication of the judgment in the Gazette;
-    b. restitution or compensation;
-    c. confiscation;
-    d. disqualification from honours, commissions, offices, or regulated professions;
-    e. suspension or revocation of Verified Kaharagian Status.
+    (a) publication of the judgment in the Gazette;
+    (b) restitution or compensation;
+    (c) confiscation;
+    (d) disqualification from honours, commissions, offices, or regulated professions;
+    (e) suspension or revocation of Verified Kaharagian Status.
 
 2. Accessory penalties may be imposed where required for the protection of the State, the community, or the integrity of public institutions.
 

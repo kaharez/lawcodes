@@ -17,8 +17,8 @@ status: active
 1. Any person who intentionally impersonates another individual for the purpose of obtaining an advantage, causing harm, or deceiving another commits the offence of impersonation.
 
 2. Impersonation includes:
-    a. using another person’s name, likeness, or identifying information without consent;
-    b. digital impersonation through accounts, emails, or identity credentials;
-    c. presenting oneself as another in official, financial, or personal contexts.
+    (a) using another person’s name, likeness, or identifying information without consent;
+    (b) digital impersonation through accounts, emails, or identity credentials;
+    (c) presenting oneself as another in official, financial, or personal contexts.
 
 3. This offence is punishable within Penalty Band B, or Penalty Band C where the impersonation causes significant harm or is used to facilitate another offence.

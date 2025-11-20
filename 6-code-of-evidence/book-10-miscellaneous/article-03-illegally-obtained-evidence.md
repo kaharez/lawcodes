@@ -15,8 +15,8 @@ status: active
 # Article 3 – Illegally Obtained Evidence
 
 1. Evidence obtained by unlawful means may be excluded if:
-   a. admission would bring the administration of justice into disrepute;
-   b. it was obtained in flagrant violation of rights;
-   c. exclusion is proportionate to the breach.
+   (a) admission would bring the administration of justice into disrepute;
+   (b) it was obtained in flagrant violation of rights;
+   (c) exclusion is proportionate to the breach.
 
 2. In criminal cases, evidence obtained in violation of rights is generally excluded unless admission is necessary to prevent miscarriage of justice.

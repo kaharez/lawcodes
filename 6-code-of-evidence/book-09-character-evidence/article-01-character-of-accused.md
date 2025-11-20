@@ -17,7 +17,7 @@ status: active
 1. In criminal proceedings, the accused may call evidence of good character.
 
 2. Good character is relevant to:
-   a. credibility;
-   b. propensity (likelihood of committing the offence).
+   (a) credibility;
+   (b) propensity (likelihood of committing the offence).
 
 3. The prosecution may rebut with evidence of bad character only if the accused puts character in issue or attacks prosecution witnesses' character.

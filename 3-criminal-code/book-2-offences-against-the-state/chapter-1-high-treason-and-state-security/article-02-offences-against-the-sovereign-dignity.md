@@ -17,9 +17,9 @@ status: active
 1. Any person who intentionally insults, degrades, threatens, or incites violence against The Sovereign, or against the institution of the Sovereign, commits an offence against the Sovereign dignity.
 
 2. The offence includes:
-    a. dissemination of falsehoods likely to provoke public disorder;
-    b. acts intended to undermine the confidence of the Kaharagian community in the Sovereign or the State;
-    c. unauthorised use, manipulation, or falsification of Sovereign images, digital likeness, or symbols.
+    (a) dissemination of falsehoods likely to provoke public disorder;
+    (b) acts intended to undermine the confidence of the Kaharagian community in the Sovereign or the State;
+    (c) unauthorised use, manipulation, or falsification of Sovereign images, digital likeness, or symbols.
 
 3. This offence is punishable within Penalty Band C, or Band D where the act is carried out through digital manipulation, organised dissemination, or with foreign support.
 

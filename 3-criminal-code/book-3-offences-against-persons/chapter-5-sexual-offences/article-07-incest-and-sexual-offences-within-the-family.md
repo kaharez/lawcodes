@@ -25,14 +25,14 @@ status: active
 5. Any sexual act committed by a person in a parental, guardianship, or custodial role against a child in their care, regardless of biological relationship, is punished as aggravated sexual abuse under Article 3 of this Chapter.
 
 6. The following are also punishable under this Article:
-    a. sexual acts between adoptive parent and adoptive child, regardless of age (Penalty Band E);
-    b. sexual acts between step-parent and step-child where a relationship of authority or dependency exists (Penalty Band E);
-    c. sexual acts between persons in a familial relationship of trust or authority, including foster care or guardianship, against a minor (Penalty Band E); or
-    d. sexual acts between an adult and a minor to whom the adult owes a duty of care by virtue of family relationship (Penalty Band E).
+    (a) sexual acts between adoptive parent and adoptive child, regardless of age (Penalty Band E);
+    (b) sexual acts between step-parent and step-child where a relationship of authority or dependency exists (Penalty Band E);
+    (c) sexual acts between persons in a familial relationship of trust or authority, including foster care or guardianship, against a minor (Penalty Band E); or
+    (d) sexual acts between an adult and a minor to whom the adult owes a duty of care by virtue of family relationship (Penalty Band E).
 
 7. It is not a defence that:
-    a. the parties were unaware of the biological relationship, except where both parties took all reasonable steps to ascertain the absence of relationship;
-    b. the relationship was established by adoption, fostering, or other legal means rather than consanguinity; or
-    c. the act occurred outside the territory of any State.
+    (a) the parties were unaware of the biological relationship, except where both parties took all reasonable steps to ascertain the absence of relationship;
+    (b) the relationship was established by adoption, fostering, or other legal means rather than consanguinity; or
+    (c) the act occurred outside the territory of any State.
 
 8. The court may recommend to The Sovereign that loss of nationality be considered where incest is committed by an adult against a child, or where the offence demonstrates grave moral turpitude.

@@ -21,8 +21,8 @@ status: active
 3. Consent must be free, informed, and genuine. Consent is defective and the contract voidable if it is vitiated by error, fraud, duress, or undue influence.
 
 4. Error as to the nature of the contract or the identity of the other party renders the contract void. Error as to a material quality of the object or person renders the contract voidable if:
-    a. the error relates to an essential quality that determined consent;
-    b. the other party knew or ought to have known of the error and its importance.
+    (a) the error relates to an essential quality that determined consent;
+    (b) the other party knew or ought to have known of the error and its importance.
 
 5. Error as to the value of the object or error of law does not vitiate consent, except where the error of law was the sole cause of the contract and relates to the application of the law to the facts.
 

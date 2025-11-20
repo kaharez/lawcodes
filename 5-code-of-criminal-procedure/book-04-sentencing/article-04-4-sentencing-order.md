@@ -15,9 +15,9 @@ status: active
 # Article 4 – Sentencing Order
 
 1. The sentencing order shall specify:
-   a. the penalty imposed;
-   b. conditions (if any);
-   c. credit for pre-trial detention;
-   d. recommendations regarding execution.
+   (a) the penalty imposed;
+   (b) conditions (if any);
+   (c) credit for pre-trial detention;
+   (d) recommendations regarding execution.
 
 2. Reasons for sentence shall be given.
