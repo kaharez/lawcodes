@@ -10,6 +10,6 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
-      1. Findamental Principles: 1-fundamental-principle
+      1. Findamental Principles: 1-fundamental-principles
 plugins:
   - search
