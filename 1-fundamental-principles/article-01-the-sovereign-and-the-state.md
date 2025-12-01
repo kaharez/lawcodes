@@ -20,9 +20,9 @@ status: active
 
 4. When Kaharagia acquires land, property, rights, or interests, whether by purchase, expropriation, escheat, donation, treaty, or any other means, such property becomes the personal property of the Sovereign, held in the Sovereign's capacity as head of state and sovereign authority.
 
-5. The Sovereign is not subject to the provisions of this Civil Code. The Civil Code governs relations among subjects and between subjects and the state in its administrative capacity, but does not bind the Sovereign personally. The Sovereign promulgates law but stands above it, exercising sovereign prerogative in accordance with the constitutional traditions and customs of Kaharagia.
+5. The Sovereign is not subject to the provisions of the legal codes of Kaharagia. The codes govern relations among subjects and between subjects and the state in its administrative capacity, but do not bind the Sovereign personally. The Sovereign promulgates law but stands above it, exercising sovereign prerogative in accordance with the constitutional traditions and customs of Kaharagia.
 
-6. Matters relating to the Royal Family shall be governed exclusively by Royal House Law, dynastic tradition, and sovereign decree, and shall not, save where expressly provided otherwise, fall within the scope of this Civil Code or the jurisdiction of the ordinary courts. For the purposes of this provision, such matters include, without limitation:
+6. Matters relating to the Royal Family shall be governed exclusively by Royal House Law, dynastic tradition, and sovereign decree, and shall not, save where expressly provided otherwise, fall within the scope of the legal codes or the jurisdiction of the ordinary courts. For the purposes of this provision, such matters include, without limitation:
     (a) succession to the Crown and to the sovereign dignity;
     (b) the titles, precedence, honours, styles, and prerogatives of members of the Royal House;
     (c) the private estates, property, and personal affairs of the Sovereign and the Royal Family;
@@ -33,6 +33,6 @@ status: active
 
 8. Legal acts, contracts, and obligations undertaken in the name of "the state of Kaharagia", "the government", or "public authorities" bind the state in its administrative capacity and are enforceable in accordance with law, but are understood to be executed under the authority and on behalf of the Sovereign, who delegates administrative functions to ministers, officials, and organs of government.
 
-9. This Civil Code is promulgated by sovereign authority and reflects the will and grace of the Sovereign. Its interpretation and application shall respect the sovereign prerogative, the paternal character of Kaharagian governance, and the indivisible union of Crown and state in the person of the Sovereign.
+9. The Fundamental Principles and the codes issued under them are promulgated by sovereign authority and reflect the will and grace of the Sovereign. Their interpretation and application shall respect the sovereign prerogative, the paternal character of Kaharagian governance, and the indivisible union of Crown and state in the person of the Sovereign.
 
-10. References in this Code and in all Kaharagian law to "the state", "public authorities", "the public domain", or similar expressions are understood to refer to the Sovereign or to organs acting under sovereign authority, unless the context clearly requires otherwise.
+10. References in the codes and in all Kaharagian law to "the state", "public authorities", "the public domain", or similar expressions are understood to refer to the Sovereign or to organs acting under sovereign authority, unless the context clearly requires otherwise.
