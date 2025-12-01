@@ -18,4 +18,4 @@ status: active
 
 2. It applies to civil, criminal, family, and administrative matters unless otherwise specified.
 
-3. The court has discretion to exclude evidence where its probative value is outweighed by prejudicial effect or other factors.
+3. The court has discretion to exclude evidence where its probative value is outweighed by prejudicial effect or other factors, and shall exercise this discretion consistently with the Fundamental Principles.
