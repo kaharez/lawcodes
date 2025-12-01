@@ -6,7 +6,7 @@ The navigation sidebar on the left lists every article in the collection. Use th
 
 ## Getting started
 
-- Start with the fundamental principles to understand the structure of the legal order.
+- Start with the fundamental principles—they guide interpretation and application of every code.
 - Browse civil, criminal, and procedural codes by expanding their sections in the sidebar.
 - Use the search field in the upper left to locate articles by keyword.
 

@@ -12,18 +12,20 @@ status: active
 
 # Article 2 – Application and Effect of Laws
 
-1. This Civil Code governs the civil status, family relations, property rights, and private obligations of persons subject to the jurisdiction of the state of Kaharagia.
+1. The Fundamental Principles apply to all Kaharagian laws and codes. Every provision of civil, criminal, procedural, and evidentiary law shall be interpreted and applied consistently with these Principles, which guide the coherence of the entire legal order unless a specific law expressly provides otherwise.
 
-2. Laws enter into force upon their official publication, or on the date specified in the law itself. In the absence of specification, laws enter into force on the date of publication.
+2. The Civil Code governs the civil status, family relations, property rights, and private obligations of persons subject to the jurisdiction of the state of Kaharagia and shall be read in harmony with the Fundamental Principles.
 
-3. Laws have prospective effect only and do not apply to acts, facts, or situations that occurred or were completed before their entry into force, unless the law expressly provides otherwise or unless retroactive application is necessary to give effect to fundamental rights.
+3. Laws enter into force upon their official publication, or on the date specified in the law itself. In the absence of specification, laws enter into force on the date of publication.
 
-4. Vested rights acquired under previous legislation are respected. New laws may not divest rights validly acquired, except where required by public interest with just compensation or where the law expressly provides for transitional arrangements.
+4. Laws have prospective effect only and do not apply to acts, facts, or situations that occurred or were completed before their entry into force, unless the law expressly provides otherwise or unless retroactive application is necessary to give effect to fundamental rights.
 
-5. Laws may not be repealed except by subsequent legislation or by express abrogation. Implicit repeal occurs only to the extent that the new law is irreconcilable with the prior law.
+5. Vested rights acquired under previous legislation are respected. New laws may not divest rights validly acquired, except where required by public interest with just compensation or where the law expressly provides for transitional arrangements.
 
-6. Ignorance of the law is no excuse and does not exempt any person from compliance, except where excusable error of law is recognised as a defence.
+6. Laws may not be repealed except by subsequent legislation or by express abrogation. Implicit repeal occurs only to the extent that the new law is irreconcilable with the prior law.
 
-7. Custom and usage have the force of law where the law expressly refers to them, or in matters not regulated by law, provided they are not contrary to law, public order, or morals.
+7. Ignorance of the law is no excuse and does not exempt any person from compliance, except where excusable error of law is recognised as a defence.
 
-8. In cases not regulated by law, custom, or usage, the judge shall decide according to general principles of law, equity, and the nature of analogous legal relations.
+8. Custom and usage have the force of law where the law expressly refers to them, or in matters not regulated by law, provided they are not contrary to law, public order, or morals.
+
+9. In cases not regulated by law, custom, or usage, the judge shall decide according to general principles of law, equity, and the nature of analogous legal relations.
