@@ -18,6 +18,6 @@ status: active
 
 2. Criminal justice is administered in the name of The Sovereign.
 
-3. This Code applies to all persons subject to the criminal jurisdiction of Kaharagia.
+3. This Code applies to all persons subject to the criminal jurisdiction of Kaharagia and shall be read in harmony with the Fundamental Principles.
 
 4. Proceedings shall respect human dignity and the rights of accused persons.

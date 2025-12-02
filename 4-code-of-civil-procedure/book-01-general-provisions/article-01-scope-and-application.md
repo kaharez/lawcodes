@@ -22,6 +22,6 @@ status: active
    (c) provisional and protective measures;
    (d) non-contentious proceedings.
 
-3. The Code applies to all persons and juridical entities subject to the jurisdiction of Kaharagian courts.
+3. The Code applies to all persons and juridical entities subject to the jurisdiction of Kaharagian courts and shall be applied consistently with the Fundamental Principles.
 
 4. Where this Code does not provide for a particular procedural matter, the court shall apply the principles of fairness, efficiency, and access to justice.

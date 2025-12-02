@@ -21,6 +21,8 @@ status: active
     (b) Sovereign Decrees issued pursuant to it; and
     (c) international conventions recognised as part of the law of the State.
 
-3. No person may be convicted or punished for an act or omission that did not constitute an offence at the time it was committed.
+3. This Code shall be interpreted and applied in harmony with the Fundamental Principles so that the criminal law forms part of a coherent legal order. Where a rule of this Code expressly departs from a Fundamental Principle, the departure is limited to what is necessary for criminal justice.
 
-4. A later law that is more favourable to the accused shall apply retroactively.
+4. No person may be convicted or punished for an act or omission that did not constitute an offence at the time it was committed.
+
+5. A later law that is more favourable to the accused shall apply retroactively.
